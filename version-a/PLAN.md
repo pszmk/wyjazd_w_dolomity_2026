@@ -4,9 +4,9 @@
 
 **Travellers assumed:** 5 people, tent(s) + rental car. Adjust pitch count if using multiple tents.
 
-**Driving rule:** **≤150 km per day** on move and activity days. Campsites chosen so trailheads are **≤30 km / ~45 min** from camp. Arrival and return use a **staging camp** near Trento to stay within the limit; the final drive home can be split (see Day 7).
+**Driving rule:** **≤150 km per day** on move and activity days. **Day 2** is the main transfer (**~125 km** Iseo → Colfosco). Western base **Camping Colfosco** is **~8 km** from Passo Gardena (Gran Cir). Day 1 is a short hop to **Lake Iseo** (~26 km from BGY). Return to BGY may exceed 150 km on Day 7 unless staged (see Day 7).
 
-**Budget:** see [BUDGET.md](BUDGET.md) — total **~€950–1,450** excluding flights (7 days, 5 people).
+**Budget:** see [BUDGET.md](BUDGET.md) — total **~€950–1,450** excluding flights (7 days, 5 people). Car hire from **~€200** via Italian brands at BGY.
 
 **Equipment:** see [EQUIPMENT.md](EQUIPMENT.md).
 
@@ -18,15 +18,15 @@
 
 | Day | Date | Overnight | Main activity | Drive (km) |
 |-----|------|-----------|---------------|------------|
-| 1 | **Sat 31 Aug** | Camping Sarche, Lago Toblino | Arrive BGY → staging camp | **~145** |
-| 2 | **Sun 1 Sep** | Camping Al Plan, Val Badia | Transfer → acclimatise | **~110** |
-| 3 | **Mon 2 Sep** | Camping Al Plan | **Via Ferrata Gran Cir** | **~30** RT |
-| 4 | **Tue 3 Sep** | Camping Al Plan | **Seceda ridge** or **Lago di Braies** (early) | **~40–90** |
-| 5 | **Wed 4 Sep** | Camping Olympia, Dobbiaco | Transfer → **Via Ferrata Ra Gusela** | **~85** + **~50** RT |
-| 6 | **Thu 5 Sep** | Camping Olympia | **Tre Cime di Lavaredo** loop | **~35** RT |
-| 7 | **Fri 6 Sep** | — | **Cinque Torri** → drive to BGY | **~25** + **~145–290** |
+| 1 | **Sat 31 Aug** | **Camping del Sole**, Lake Iseo | Arrive BGY → easy staging | **~26** |
+| 2 | **Sun 1 Sep** | **Camping Colfosco**, Corvara | Transfer → acclimatise | **~125** |
+| 3 | **Mon 2 Sep** | Colfosco | **Via Ferrata Gran Cir** | **~16** RT |
+| 4 | **Tue 3 Sep** | Colfosco | **Seceda ridge** (cable car) | **~30** RT |
+| 5 | **Wed 4 Sep** | **Camping Olympia**, Dobbiaco | Transfer → **Via Ferrata Ra Gusela** | **~63** + **~50** RT |
+| 6 | **Thu 5 Sep** | Olympia | **Tre Cime di Lavaredo** loop | **~35** RT |
+| 7 | **Fri 6 Sep** | — | Drive to BGY (direct or staged) | **~290** or **~140** |
 
-**Camping nights:** 6 (1 staging + 3 Val Badia + 2 Alta Pusteria).
+**Camping nights:** 6 (1 Iseo + 3 Colfosco + 2 Olympia).
 
 ---
 
@@ -35,7 +35,7 @@
 - **31 Aug:** Last day of August — Ferragosto crowds mostly gone; infrastructure still fully open.
 - **1–6 Sep:** Early September — often **clearer weather**, fewer afternoon storms than peak August ([Dolomites Journey](https://www.dolomitesjourney.com/dolomites-travel-tips/best-time-to-visit-dolomites), [September guide](https://www.moonhoneytravel.com/hiking-dolomites-september/)).
 - All rifugi, passes, and cable cars open through your dates.
-- **Braies car restriction** (09:00–16:00, 1 Jul–15 Sep) still applies on **3 Sep** — go before 09:00 or after 16:00 to avoid €40+ reservation ([prags.bz](https://www.prags.bz/en)).
+- **Braies** (optional from Dobbiaco by bus 442) if Tre Cime weather fails on **5 Sep** — car access 09:00–16:00 restricted 1 Jul–15 Sep ([prags.bz](https://www.prags.bz/en)).
 
 **Weather checks (evening before each hike):**
 - Val Badia / Gardena: [Meteo Alto Adige](https://weather.provinz.bz.it/)
@@ -52,17 +52,16 @@
 
 | Leg | km | Notes |
 |-----|-----|-------|
-| BGY → Lago Toblino (Sarche) | ~145 | Day 1 — avoids 220 km non-stop to Val Badia |
-| Toblino → Val Badia (Al Plan) | ~110 | Day 2 — A22 north, SS49 into Badia |
-| Al Plan → trailheads (Gran Cir, Seceda) | 15–25 one way | Activity days |
-| Al Plan → Braies (early visit) | ~45 one way | Day 4 only if chosen |
-| Al Plan → Dobbiaco (Olympia) | ~85 | Day 5 move |
-| Olympia → Passo Giau / Tre Cime / Cinque Torri | 15–20 one way | Activity days |
-| Dobbiaco → BGY (direct) | ~290 | Day 7 — **over daily cap**; see options below |
-| Dobbiaco → Toblino (exit staging) | ~140 | Optional split return |
-| Toblino → BGY | ~145 | Next-morning flight connection |
+| BGY → Lake Iseo (Camping del Sole) | ~26 | Day 1 — gentle arrival ([26 km from BGY](https://camplinq.com/camps/camping-del-sole-village/)) |
+| Iseo → Colfosco (Corvara) | ~125 | Day 2 — A4 → A22 → Bressanone/Val Pusteria → SS244; **one long transfer** |
+| Colfosco → Passo Gardena (Gran Cir) | ~8 one way | **~16 km** RT — closest full camp to ferrata |
+| Colfosco → Ortisei (Seceda lift) | ~15 one way | **~30 km** RT |
+| Colfosco → Dobbiaco (Olympia) | ~63 | Day 5 move ([Corvara–Dobbiaco ~63 km](https://www.percorsokm.it/it-it/percorso-da-Dobbiaco-a-Corvara_in_Badia)) |
+| Olympia → Passo Giau / Tre Cime | 15–20 one way | Activity days |
+| Dobbiaco → BGY (direct) | ~290 | Day 7 — **over daily cap** |
+| Dobbiaco → Sarche / Iseo (exit staging) | ~140 / ~99+ | Optional split return |
 
-**Why staging at Lago Toblino:** BGY → Val Badia in one go is ~220 km. **Camping Sarche** sits at the north end of the Trento valley — close to the A22 — so day 1 and an optional exit night stay under 150 km while still reaching the Dolomites quickly on day 2.
+**Why Iseo + Colfosco:** Short day 1 after flying; **Camping Colfosco** saves **~15 km/day** vs San Vigilio (Al Plan) for Gran Cir and Seceda. Cinque Torri dropped from departure day to allow an earlier start on the drive home.
 
 ### Campsites — trailhead proximity
 
@@ -70,21 +69,25 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 | Base | Nights | Campsite | Closest hikes | Drive to trailhead |
 |------|--------|----------|---------------|-------------------|
-| Staging | 31 Aug | **Camping Sarche**, Lago Toblino | Lake walk, acclimatisation | — |
-| Val Badia | 1–3 Sep | **Camping Al Plan**, San Vigilio | Gran Cir, Seceda, Braies | **15–25 km** |
-| Alta Pusteria | 4–5 Sep | **Camping Olympia**, Dobbiaco | Ra Gusela, Tre Cime, Braies bus, Cinque Torri | **15–25 km** |
+| Staging | 31 Aug | **Camping del Sole**, Lake Iseo | Lake walk, acclimatisation | — |
+| Alta Badia | 1–3 Sep | **Camping Colfosco**, Corvara/Colfosco | Gran Cir, Seceda | **8–15 km** |
+| Alta Pusteria | 4–5 Sep | **Camping Olympia**, Dobbiaco | Ra Gusela, Tre Cime, Braies bus | **15–25 km** |
 
 | Camp | Book |
 |------|------|
-| Sarche | [camping-sarche.it](https://www.camping-sarche.it/) |
-| Al Plan | [booking.campingalplan.com](https://booking.campingalplan.com/) |
+| Iseo | [campingdelsole.it](https://www.campingdelsole.it/en/) |
+| Colfosco | [campingcolfosco.org](https://www.campingcolfosco.org/) |
 | Olympia | [camping-olympia.com](https://www.camping-olympia.com/en/lago-di-braies-camping/) |
 
 **Campsite map:** [45 sites — interactive map](https://mountainsforeverybody.com/campsites-in-the-dolomites-interactive-map/)
 
 **Olympia advantage:** ~15 min to Braies shuttle (bus 442), Tre Cime shuttle (Line 444 from Dobbiaco), and Passo Giau — one base for the whole eastern block without daily camp moves.
 
-**5 people:** book a **large pitch** or **two adjacent pitches**; confirm extra-adult fees when booking Al Plan and Olympia.
+**5 people:** book a **large pitch** or **two adjacent pitches**; confirm extra-adult fees when booking Colfosco and Olympia.
+
+**Scenic approach?** [Version B](../version-b/PLAN.md) covers Riva, Arco, and Valle dei Laghi over 5 days — then join Dolomites via Bressanone ([README](../version-b/README.md)).
+
+**Strict ≤100 km/day for the full trip?** Not compatible with 7 days from BGY — see [../version-c/](../version-c/) for the 15-day alternative or fly closer (Verona / Bolzano).
 
 ---
 
@@ -94,10 +97,15 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 | | |
 |---|---|
-| **Pick up / drop off** | Bergamo Airport (BGY), 31 Aug – 6 Sep |
-| **Type** | **Estate / compact SUV** recommended for 5 people + tent kit |
-| **Cost** | ~€250–490 for 7 days — [BUDGET.md](BUDGET.md) |
-| **Why** | Camping gear, ferrata trailheads, flexible weather escapes |
+| **Pick up / drop off** | **BGY airport** (recommended) or Bergamo city — see [BUDGET.md § Car hire](BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) |
+| **Type** | **Estate / compact SUV / MPV** — 5 people + tent kit |
+| **Cost** | **€200–490** for 7 days — Italian brands (Locauto, Sicily by Car) often **€50–150 below** Sixt/Hertz |
+| **Compare** | [DiscoverCars](https://www.discovercars.com/) · [Rent.it BGY](https://www.rent.it/autonoleggio/italia-1/bergamo-34/bergamo_aeroporto_orio_al_serio_bgy-42/) · [Sicily by Car](https://www.sicilybycar.it/it/noleggio-auto/italia/aeroporto-bergamo) |
+| **Why** | Camping gear, ferrata trailheads, Tre Cime parking needs **license plate** |
+
+**Local sellers:** Autodiretto, FB65, BJ Auto in Bergamo city can undercut airport majors — but you need a **bus/taxi from BGY** (~€3–35) and must match **Saturday opening hours** (31 Aug). Only choose city pickup if the quote saves **>€50** vs an Italian brand at the airport desk.
+
+All links: [SOURCES.md — Car hire](SOURCES.md#car-driving--airports)
 
 ### Total driving (estimate)
 
@@ -105,55 +113,56 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 ---
 
-## Day 1 — Sat 31 Aug: Arrival & staging
+## Day 1 — Sat 31 Aug: Arrival at Lake Iseo
 
 ### Schedule
 
 | Time | Activity |
 |------|----------|
 | Morning / midday | Land BGY, collect rental car |
-| Afternoon | Drive to Lago Toblino (**~145 km**, ~1 h 45 min via A4 → A22 → Trento north) |
-| Evening | Check in Camping Sarche, lakeside walk, buy snacks |
+| Afternoon | Drive to Lake Iseo (**~26 km**, ~35 min via A4 Rovato exit) |
+| Evening | Check in Camping del Sole, lakeside walk, shop in Iseo town |
 
 ### Costs today
 
 | Item | € |
 |------|---|
 | Car hire (daily share) | ~€36–70 |
-| Motorway tolls (partial) | ~€12–18 |
-| Fuel (partial) | ~€15–25 |
-| Campsite night 1 | ~€30–45 |
+| Motorway tolls (partial) | ~€3–5 |
+| Fuel (partial) | ~€5–10 |
+| Campsite night 1 | ~€50–80 (5 people) |
 
 ### Watch
 
-- Gentle day — valley altitude ~250 m. No mountain hiking.
-- Supermarkets in Trento or Lavis if you pass them before camp.
+- Easy first day — valley altitude ~200 m. No mountain hiking.
+- Large supermarket in Iseo (10 min walk from camp).
 
 ---
 
-## Day 2 — Sun 1 Sep: Into Val Badia
+## Day 2 — Sun 1 Sep: Into Alta Badia (Colfosco)
 
 ### Schedule
 
 | Time | Activity |
 |------|----------|
-| 08:00 | Leave Sarche |
-| 10:00 | Arrive Camping Al Plan (**~110 km**, A22 → Bressanone → SS49) |
-| Midday | Pitch tent, shop in San Vigilio / Corvara |
-| Afternoon | Easy valley walk (Fanes-Senes-Braies nature park entrance trails) |
+| 07:30 | Leave Iseo |
+| 10:30–11:00 | Arrive **Camping Colfosco** (**~125 km**, A4 → A22 → Bressanone → SS49/SS244 to Corvara) |
+| Midday | Pitch tent, shop in Corvara |
+| Afternoon | Easy valley walk — acclimatise to **~1,500 m** |
 
 ### Costs today
 
 | Item | € |
 |------|---|
-| Motorway tolls | ~€8–12 |
-| Fuel (partial) | ~€15–20 |
-| Campsite night 2 | ~€42–66 pitch + metered electricity |
+| Motorway tolls | ~€18–25 |
+| Fuel (partial) | ~€20–30 |
+| Campsite night 2 | ~€45–70 pitch + electricity |
 
 ### Watch
 
-- No via ferrata today — acclimatise to **~1,200 m** valley altitude.
-- Buy food before Monday evening closures in smaller villages.
+- **Longest drive day** of the trip — start early, fuel on A22.
+- No via ferrata today.
+- Buy food in Corvara before Sunday evening closures.
 
 ---
 
@@ -165,7 +174,7 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 | Time | Activity |
 |------|----------|
-| 07:00 | Leave camp (**~15 km** to Passo Gardena) |
+| 07:00 | Leave camp (**~8 km** to Passo Gardena) |
 | 07:45 | Arrive Passo Gardena (2,121 m) |
 | 08:00–11:30 | Gran Cir (+ optional Pitla Cir) |
 | Afternoon | Rest at camp — save Braies for tomorrow |
@@ -196,7 +205,7 @@ Rent **2 days** (2–3 Sep) → **€40** total per set at Alta Badia Sport.
 | Item | € |
 |------|---|
 | Ferrata kit rental (day 1 of 2) | 20–27 per set |
-| Campsite night 3 | 42–66 |
+| Campsite night 3 | 45–70 |
 | Rifugio lunch (optional) | 15–25/person |
 
 ### Sources — read & watch before
@@ -210,15 +219,15 @@ Rent **2 days** (2–3 Sep) → **€40** total per set at Alta Badia Sport.
 
 ---
 
-## Day 4 — Tue 3 Sep: Seceda or Lago di Braies
+## Day 4 — Tue 3 Sep: Seceda ridge
 
-**Rest day from ferrata** — iconic hike, minimal driving from Al Plan.
+**Rest day from ferrata** — iconic hike, **~30 km** driving RT from Colfosco.
 
-### Option A — Seceda ridge (recommended if weather clear)
+### Schedule
 
 | Time | Activity |
 |------|----------|
-| 07:30 | Drive to Ortisei (**~20 km**) |
+| 07:30 | Drive to Ortisei (**~15 km**) |
 | 08:00 | Seceda cable car up |
 | 08:30–13:00 | Ridge walk toward Pierlongia / Regensburger Hütte viewpoint |
 | Afternoon | Return to camp |
@@ -226,31 +235,20 @@ Rent **2 days** (2–3 Sep) → **€40** total per set at Alta Badia Sport.
 | Item | Cost |
 |------|------|
 | Seceda cable car return | ~€25–35/person |
-| Drive | **~40 km** RT |
+| Drive | **~30 km** RT |
 
 **YouTube:** [Seceda hike vlog](https://www.youtube.com/watch?v=E_Y8FI4Esd0)
 
-### Option B — Lago di Braies (early start)
+### Weather backup
 
-| Time | Activity |
-|------|----------|
-| 06:30 | Leave camp (**~45 km**, ~50 min) |
-| 07:15 | Lakeshore loop before 09:00 restriction window |
-| 10:00 | Back at camp |
-
-| Option | Cost |
-|--------|------|
-| Before 09:00 | **Free** drive — [prags.bz](https://www.prags.bz/en) |
-| Mid-day reserved parking | **€40–44** (avoid — exceeds budget spirit) |
-
-Drive **~90 km** RT — still under 150 km daily cap.
+Easy **Puez-Odle** viewpoint trail from Passo Gardena (**~16 km** RT) if Seceda is in cloud — no lift cost.
 
 ### Costs today
 
 | Item | € |
 |------|---|
-| Campsite night 4 (last at Al Plan) | 42–66 |
-| Seceda lift OR Braies parking | 0–35/person |
+| Campsite night 4 (last at Colfosco) | 45–70 |
+| Seceda lift | 25–35/person |
 
 ---
 
@@ -260,7 +258,7 @@ Drive **~90 km** RT — still under 150 km daily cap.
 
 | Time | Activity |
 |------|----------|
-| 08:00 | Pack camp, drive to Dobbiaco (**~85 km**, ~1 h 30 min) |
+| 08:00 | Pack camp, drive to Dobbiaco (**~63 km**, ~1 h 15 min) |
 | 10:30 | Check in Camping Olympia |
 | 12:00 | Late lunch, rest |
 | 14:00 | Drive to Passo Giau (**~25 km**) |
@@ -281,7 +279,7 @@ Drive **~90 km** RT — still under 150 km daily cap.
 |------|---|
 | Ferrata kit (day 2 of rental) | included in €40/set |
 | Campsite night 5 | ~€36–50 |
-| Braies (only if skipped day 4 and visiting now) | 0–44 |
+| Braies (optional later from Dobbiaco by bus 442) | ~5–15/person |
 
 ### Sources
 
@@ -345,24 +343,26 @@ Shuttle runs **31 May – 11 Oct 2026**.
 
 ---
 
-## Day 7 — Fri 6 Sep: Cinque Torri & departure
+## Day 7 — Fri 6 Sep: Departure
 
 ### Schedule
 
 | Time | Activity |
 |------|----------|
-| 07:00 | Drive to **Cinque Torri** / Passo Giau area (**~12 km**) |
-| 07:30–10:30 | Easy circuit around Cinque Torri war trenches & towers |
-| 11:00 | Check out Olympia, start drive toward BGY |
-| ~15:00–16:00 | Arrive BGY area (direct route **~290 km**, ~3 h 30 min) |
+| 07:00 | Pack camp, check out Olympia |
+| 07:30 | Start drive toward BGY |
+| ~11:00–12:00 | Arrive BGY area (direct **~290 km**, ~3 h 30 min) |
 | Afternoon | Return car, fly home |
 
-### Return drive — two options
+**Cinque Torri** removed from this day — saves ~25 km and 3 h so you can leave earlier for the long drive.
+
+### Return drive — options
 
 | Option | Route | km | Best for |
 |--------|-------|-----|----------|
-| **A — Direct** | Dobbiaco → A22 → A4 → BGY | **~290** | Late flight, accept one long day |
-| **B — Staged** | Day 6 PM or 7 AM: Dobbiaco → Sarche (**~140 km**), next day Sarche → BGY (**~145 km**) | **≤150/day** | Early flight next morning — add night at Sarche |
+| **A — Direct** | Dobbiaco → A22 → A4 → BGY | **~290** | Afternoon/evening flight; one long day |
+| **B — Staged via Sarche** | Day 7: Dobbiaco → Sarche (~140 km), night camp; Day 8: Sarche → BGY (~145 km) | **≤150/day** | **Morning flight 7 Sep** — needs extra holiday day |
+| **C — Staged via Iseo** | Day 7: Dobbiaco → Iseo area (~280 km split impossible in one day under 150) | — | Use Sarche or fly from Verona instead |
 
 ### Costs today
 
@@ -381,7 +381,7 @@ Routes chosen for **full cable protection** — no long exposed scrambling witho
 
 | Route | Date | Grade | Time | Drive from camp |
 |-------|------|-------|------|-----------------|
-| Gran Cir | 2 Sep | A | 1–1.5 h | 15 km |
+| Gran Cir | 2 Sep | A | 1–1.5 h | 8 km |
 | Pitla Cir (optional) | 2 Sep | A | +1 h | same |
 | Ra Gusela | 4 Sep | A | ~3 h | 25 km |
 
@@ -401,10 +401,10 @@ Routes chosen for **full cable protection** — no long exposed scrambling witho
 
 | Route | Date | Time | Drive from camp |
 |-------|------|------|-----------------|
-| Seceda ridge | 3 Sep | 4–5 h | 20 km |
-| Lago di Braies | 3 Sep (alt.) | 2–3 h | 45 km |
+| Seceda ridge | 3 Sep | 4–5 h | 15 km |
 | Tre Cime loop | 5 Sep | 3–4 h | 18 km |
-| Cinque Torri | 6 Sep | 2–3 h | 12 km |
+
+**Optional (not in 7-day plan):** Lago di Braies (bus from Dobbiaco); Cinque Torri (near Passo Giau) if you add a day or skip Seceda.
 
 ---
 
@@ -418,15 +418,14 @@ Full checklist (ferrata, hiking, camping, documents): **[EQUIPMENT.md](EQUIPMENT
 
 | ☐ | Item | When | Link | Cost |
 |---|------|------|------|------|
-| ☐ | Car hire BGY (7 days) | ASAP | Airport rental | €250–490 |
-| ☐ | Camping Sarche (31 Aug) | ASAP | [camping-sarche.it](https://www.camping-sarche.it/) | ~€30–45 |
-| ☐ | Camping Al Plan (1–3 Sep) | ASAP | [booking.campingalplan.com](https://booking.campingalplan.com/) | ~€130–200 |
+| ☐ | Car hire (7 days, estate/SUV) | ASAP | [DiscoverCars](https://www.discovercars.com/) · [Rent.it](https://www.rent.it/autonoleggio/italia-1/bergamo-34/bergamo_aeroporto_orio_al_serio_bgy-42/) · compare [Locauto](https://www.locauto.it/) / [Sicily by Car](https://www.sicilybycar.it/it/noleggio-auto/italia/aeroporto-bergamo) | €200–490 |
+| ☐ | Camping del Sole, Iseo (31 Aug) | ASAP | [campingdelsole.it](https://www.campingdelsole.it/en/) | ~€50–80 |
+| ☐ | Camping Colfosco (1–3 Sep) | ASAP | [campingcolfosco.org](https://www.campingcolfosco.org/) | ~€135–210 |
 | ☐ | Camping Olympia (4–5 Sep) | ASAP | [camping-olympia.com](https://www.camping-olympia.com/en/lago-di-braies-camping/) | ~€72–100 |
 | ☐ | Tre Cime parking **5 Sep, 07:00** | ~Aug 5 | [pass.auronzo.info](https://pass.auronzo.info/) | **€40** |
 | ☐ | OR Tre Cime shuttle return | ~Aug 5 | [drei-zinnen.bz/ticket](https://www.drei-zinnen.bz/en/ticket) | **€22**/person |
-| ☐ | Braies (only if mid-day 3 Sep) | After car booked | [prags.bz](https://www.prags.bz/en) | €0–44 |
 | ☐ | Ferrata kit × 5 sets | On arrival 2 Sep | [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) | €40/2 days per set |
-| ☐ | Sarche (optional exit night) | If using staged return | [camping-sarche.it](https://www.camping-sarche.it/) | ~€30–45 |
+| ☐ | Sarche (optional exit night) | If staged return | [camping-sarche.it](https://www.camping-sarche.it/) | ~€54–75 |
 
 ---
 

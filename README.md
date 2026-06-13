@@ -1,29 +1,54 @@
 # Wyjazd w Dolomity 2026
 
-7-day camping trip to the Italian Dolomites, flying in and out of **Bergamo (BGY)**.
+Camping road trip to the Italian Dolomites — itinerary variants for **5 people**, tent + car (beginner via ferrata, Tre Cime, Seceda).
 
 | | |
 |---|---|
-| **First day** | Saturday **31 August 2026** |
-| **Last day** | Friday **6 September 2026** |
-| **Focus** | Beginner via ferrata (protected routes), camping, road trip |
-| **Travellers** | 5 people, tent(s) + rental car |
-| **Driving** | **≤150 km/day** — staging camp at Lago Toblino on arrival |
-| **Bases** | Sarche (1 night) → Val Badia (3 nights) → Dobbiaco (2 nights) |
+| **Dates (Version A)** | Saturday **31 August** – Friday **6 September 2026** |
+| **Airport** | Bergamo (BGY) |
+| **Focus** | Grade A via ferrata, Tre Cime, Seceda, camping |
 
-## Documents
+---
 
-| File | Contents |
+## Choose your plan
+
+| Variant | Days | What it covers | Folder |
+|---------|------|----------------|--------|
+| **Version A (recommended)** | 7 | Dolomites core — Iseo staging → Colfosco → Olympia | **[version-a/](version-a/)** |
+| **Version B** | 5 | **Garda ↔ Iseo corridor** — Riva, Arco, Toblino, Colodri ferrata | **[version-b/](version-b/)** |
+| **Version C (strict driving)** | 15 | Full Dolomites at **≤100 km/day** (includes corridor staging) | **[version-c/](version-c/)** |
+
+### [version-a/](version-a/) — 7-day Dolomites
+
+Iseo → Colfosco → Olympia. Gran Cir, Seceda, Ra Gusela, Tre Cime.
+
+→ Start here: [version-a/PLAN.md](version-a/PLAN.md)
+
+### [version-b/](version-b/) — 5-day Garda ↔ Iseo
+
+Lake Iseo, Riva del Garda, **Via Ferrata Colodri**, Valle dei Laghi. Can stand alone or be a **scenic approach** before Version A.
+
+→ [version-b/PLAN.md](version-b/PLAN.md) · [version-b/RESEARCH.md](version-b/RESEARCH.md)
+
+### [version-c/](version-c/) — 15-day strict driving
+
+Full staging chain when every leg must stay under 100 km.
+
+→ [version-c/README.md](version-c/README.md) · [version-c/RESEARCH.md](version-c/RESEARCH.md)
+
+---
+
+## All documents
+
+| Path | Contents |
 |------|----------|
-| [PLAN.md](PLAN.md) | Day-by-day itinerary, bookings, weather |
-| [EQUIPMENT.md](EQUIPMENT.md) | Required gear: ferrata, hiking, camping, checklist |
-| [BUDGET.md](BUDGET.md) | Price breakdown and total cost estimates (EUR) |
-| [SOURCES.md](SOURCES.md) | All links: guides, blogs, YouTube, official booking sites |
-
-## Quick summary
-
-- **Car:** Rent at Bergamo airport — estate/SUV recommended for 5 people + camping gear.
-- **Campsites:** Trailhead-proximate bases — no daily long drives to hikes.
-- **Via ferrata:** Gran Cir (2 Sep), Ra Gusela (4 Sep) — grade A, beginner-friendly.
-- **Hikes:** Seceda or Braies (3 Sep), Tre Cime (5 Sep), Cinque Torri (6 Sep).
-- **Book now:** All three campsites, Tre Cime parking or shuttle for **5 Sep**.
+| [version-a/PLAN.md](version-a/PLAN.md) | Main Dolomites day-by-day itinerary |
+| [version-a/BUDGET.md](version-a/BUDGET.md) | Costs incl. **car hire comparison** |
+| [version-a/EQUIPMENT.md](version-a/EQUIPMENT.md) | Packing checklist |
+| [version-a/SOURCES.md](version-a/SOURCES.md) | Links and references |
+| [version-b/PLAN.md](version-b/PLAN.md) | Garda–Iseo corridor itinerary |
+| [version-b/BUDGET.md](version-b/BUDGET.md) | Corridor costs (5 days) |
+| [version-b/RESEARCH.md](version-b/RESEARCH.md) | Distances, camps, hikes in the corridor |
+| [version-c/PLAN.md](version-c/PLAN.md) | Strict ≤100 km full trip |
+| [version-c/BUDGET.md](version-c/BUDGET.md) | Costs (15 days) |
+| [version-c/RESEARCH.md](version-c/RESEARCH.md) | Distance & campsite research |

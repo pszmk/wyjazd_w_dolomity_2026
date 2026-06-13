@@ -8,7 +8,7 @@ All links referenced in [PLAN.md](PLAN.md) and [BUDGET.md](BUDGET.md), grouped b
 
 | What | URL | Used on |
 |------|-----|---------|
-| Tre Cime parking & toll road | https://auronzo.info/en/parking-tre-cime-di-lavaredo/ | 3 Sep — **€40** car |
+| Tre Cime parking & toll road | https://auronzo.info/en/parking-tre-cime-di-lavaredo/ | 5 Sep — **€40** car |
 | Tre Cime parking portal | https://pass.auronzo.info/ | Book 07:00 slot |
 | Tre Cime shuttle (Line 444) | https://www.drei-zinnen.bz/en/ticket | Alternative — **€22** return |
 | Tre Cime visitor info | https://auronzo.info/en/tre-cime-di-lavaredo-dolomites/ | Route info |
@@ -22,11 +22,14 @@ All links referenced in [PLAN.md](PLAN.md) and [BUDGET.md](BUDGET.md), grouped b
 
 | What | URL | Price hint |
 |------|-----|------------|
-| Camping Al Plan — book | https://booking.campingalplan.com/ | from **€42/night** (2 pers.) |
-| Camping Al Plan — info | https://www.campingalplan.com/en/ | Kronplatz Guest Pass |
-| Camping Al Plan — SüdTirol listing | https://www.suedtirol.info/en/en/accommodation/pdp-accommodation.77BDB07EEB9D11D4ADB500E07D7BF1D1.camping-al-plan-dolomites.san-vigilio | €42–66/night |
-| Camping Dolomiti — prices 2026 | https://campeggiodolomiti.it/en/prices-and-rules/ | **~€45/night** (2 adults) |
+| Camping del Sole (Iseo) — staging | https://www.campingdelsole.it/en/ | **~26 km from BGY**; also [Version B](../version-b/PLAN.md) |
+| Camping Brione (Riva) — [Version B](../version-b/PLAN.md) | https://www.campingbrione.com/EN/ | Garda north shore |
+| Camping Arco Prabi — [Version B](../version-b/PLAN.md) | https://www.campingarco.it/en/ | Colodri ferrata at gate |
+| Camping Sarche (Toblino) — corridor / exit staging | https://www.camping-sarche.it/ | [Version B](../version-b/PLAN.md) + optional A return split |
+| Camping Colfosco — book/info | https://www.campingcolfosco.org/ | Alta Badia; **~8 km to Passo Gardena** |
 | Camping Olympia (Dobbiaco) | https://www.camping-olympia.com/en/lago-di-braies-camping/ | ~€36–50/night |
+| Camping Al Plan — alternative | https://booking.campingalplan.com/ | from **€42/night** (2 pers.) |
+| Camping Dolomiti — prices 2026 | https://campeggiodolomiti.it/en/prices-and-rules/ | **~€45/night** (2 adults) |
 | 45 campsites map | https://mountainsforeverybody.com/campsites-in-the-dolomites-interactive-map/ | Compare options |
 | Camping guide (blog) | https://throneandvine.com/camping-in-the-dolomites/ | Tips |
 
@@ -34,10 +37,42 @@ All links referenced in [PLAN.md](PLAN.md) and [BUDGET.md](BUDGET.md), grouped b
 
 ## Car, driving & airports
 
+### Car hire — compare first
+
+| What | URL |
+|------|-----|
+| **DiscoverCars** (aggregator) | https://www.discovercars.com/ |
+| **Rentalcars.com** (aggregator) | https://www.rentalcars.com/ |
+| **AutoEurope** (aggregator) | https://www.autoeurope.com/ |
+| **Rent.it** — BGY airport | https://www.rent.it/autonoleggio/italia-1/bergamo-34/bergamo_aeroporto_orio_al_serio_bgy-42/ |
+| **Car-2rent** — price grid by agency | https://www.car-2rent.com/italy/car-rental-bergamo-airport |
+| BGY car hire overview | https://365carhire.com/car-hire-bergamo-airport/ |
+
+### Italian / budget brands (usually at BGY terminal)
+
+| What | URL |
+|------|-----|
+| Locauto | https://www.locauto.it/ |
+| Sicily by Car — Bergamo airport | https://www.sicilybycar.it/it/noleggio-auto/italia/aeroporto-bergamo |
+| Hertz — Bergamo (airport + city desks) | https://www.hertz.it/p/noleggio-auto/italia/bergamo |
+
+### Local renters — Bergamo city (may be cheaper; check Sat hours)
+
+| What | URL |
+|------|-----|
+| Autodiretto Rent (near airport) | https://autodiretto.rent/ |
+| FB65 — Bergamo | https://www.noleggioautofb65.com/sede-bergamo |
+| BJ Auto — Pedrengo | https://www.noleggioautobergamo.it/ |
+| Bergamo Cars — Almè | https://www.bergamocars.it/ |
+| iNoleggio — Bergamo city list | https://inoleggio.it/autonoleggio-bergamo/ |
+
+Full comparison notes: [BUDGET.md § Car hire](BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives)
+
+### Driving & trip guides
+
 | What | URL |
 |------|-----|
 | Bergamo → Dolomites driving | https://explorebergamo.com/day-trip-from-bergamo-to-the-dolomites/ |
-| BGY airport car hire tips | https://365carhire.com/car-hire-bergamo-airport/ |
 | How to get to Dolomites (all modes) | https://inafarawayland.com/dolomites/how-to-get-to-the-dolomites |
 | Dolomites 2026 travel guide | https://throneandvine.com/dolomites/ |
 | Road trip guide 2026 | https://planthealps.com/dolomites-road-trip-guide/ |

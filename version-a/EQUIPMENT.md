@@ -1,6 +1,6 @@
 # Required equipment — Dolomites trip (31 Aug – 6 Sep 2026)
 
-Packing list for a **7-day camping road trip** with **beginner via ferrata** (Gran Cir, Ra Gusela) and day hikes (Seceda, Tre Cime, Cinque Torri).
+Packing list for a **7-day camping road trip** with **beginner via ferrata** (Gran Cir, Ra Gusela) and day hikes (Seceda, Tre Cime).
 
 **Assumed setup:** 5 people, tent(s), rental car from Bergamo.
 
@@ -171,7 +171,7 @@ Mountain weather changes fast. Pack layers, not one heavy jacket.
 | **Microfibre towel** | |
 | **Biodegradable soap** | |
 | **Dish sponge / small washing-up liquid** | Campsites have dishwashing areas |
-| **CEE 16A extension lead** | Optional — pitches have hook-up; metered ~€1.10/kWh at Al Plan |
+| **CEE 16A extension lead** | Optional — pitches have hook-up; metered electricity varies by site |
 
 Campsites include hot showers (Dolomiti: included; Al Plan: included with metered electricity on pitch).
 
@@ -208,13 +208,13 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 
 | Day | Date | Activity | Must have |
 |-----|------|----------|-----------|
-| 1 | 31 Aug | Arrival (Toblino) | Camping setup, warm layer for evening |
-| 2 | 1 Sep | Transfer to Val Badia | Easy walk gear only |
+| 1 | 31 Aug | Arrival (Lake Iseo) | Camping setup, warm layer for evening |
+| 2 | 1 Sep | Transfer to Colfosco | Easy walk gear only |
 | 3 | 2 Sep | **Gran Cir** ferrata | Full ferrata kit, boots, layers, rain shell, 2 L water, gloves |
-| 4 | 3 Sep | **Seceda** or Braies hike | Boots, layers, rain shell; lift ticket if Seceda |
+| 4 | 3 Sep | **Seceda** hike | Boots, layers, rain shell; lift ticket |
 | 5 | 4 Sep | **Ra Gusela** ferrata | Same ferrata kit (2nd rental day), day pack |
 | 6 | 5 Sep | **Tre Cime** hike | Boots, layers, rain shell, no ferrata kit, parking booking |
-| 7 | 6 Sep | Cinque Torri + departure | Day pack only; tent packed |
+| 7 | 6 Sep | Departure to BGY | Day pack only; tent packed |
 
 ---
 
