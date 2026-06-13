@@ -1,13 +1,15 @@
 # Wyjazd w Dolomity 2026
 
-5-day camping trip to the Italian Dolomites, flying in and out of **Bergamo (BGY)**.
+7-day camping trip to the Italian Dolomites, flying in and out of **Bergamo (BGY)**.
 
 | | |
 |---|---|
 | **First day** | Saturday **31 August 2026** |
-| **Last day** | Wednesday **4 September 2026** |
+| **Last day** | Friday **6 September 2026** |
 | **Focus** | Beginner via ferrata (protected routes), camping, road trip |
-| **Bases** | 2 campsites × 2 nights |
+| **Travellers** | 5 people, tent(s) + rental car |
+| **Driving** | **≤150 km/day** — staging camp at Lago Toblino on arrival |
+| **Bases** | Sarche (1 night) → Val Badia (3 nights) → Dobbiaco (2 nights) |
 
 ## Documents
 
@@ -20,7 +22,8 @@
 
 ## Quick summary
 
-- **Car:** Rent at Bergamo airport — essential for camping + trailheads.
-- **Campsites:** Val Badia (nights 1–2), Cortina / Dobbiaco area (nights 3–4).
-- **Via ferrata:** Gran Cir (1 Sep), Ra Gusela (2 Sep) — grade A, beginner-friendly.
-- **Book now:** Both campsites, Tre Cime parking or shuttle for **3 Sep**.
+- **Car:** Rent at Bergamo airport — estate/SUV recommended for 5 people + camping gear.
+- **Campsites:** Trailhead-proximate bases — no daily long drives to hikes.
+- **Via ferrata:** Gran Cir (2 Sep), Ra Gusela (4 Sep) — grade A, beginner-friendly.
+- **Hikes:** Seceda or Braies (3 Sep), Tre Cime (5 Sep), Cinque Torri (6 Sep).
+- **Book now:** All three campsites, Tre Cime parking or shuttle for **5 Sep**.

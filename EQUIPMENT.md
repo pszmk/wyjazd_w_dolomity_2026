@@ -1,8 +1,8 @@
-# Required equipment — Dolomites trip (31 Aug – 4 Sep 2026)
+# Required equipment — Dolomites trip (31 Aug – 6 Sep 2026)
 
-Packing list for a **5-day camping road trip** with **beginner via ferrata** (Gran Cir, Ra Gusela) and day hikes (Tre Cime loop).
+Packing list for a **7-day camping road trip** with **beginner via ferrata** (Gran Cir, Ra Gusela) and day hikes (Seceda, Tre Cime, Cinque Torri).
 
-**Assumed setup:** 2 adults, tent camping, rental car from Bergamo.
+**Assumed setup:** 5 people, tent(s), rental car from Bergamo.
 
 See also: [PLAN.md](PLAN.md) · [BUDGET.md](BUDGET.md) · [SOURCES.md](SOURCES.md)
 
@@ -17,13 +17,13 @@ See also: [PLAN.md](PLAN.md) · [BUDGET.md](BUDGET.md) · [SOURCES.md](SOURCES.m
 | Camping | Tent, sleeping gear, stove | — | Gas canister, food |
 | Safety | First aid, phone, power bank | — | — |
 
-**Recommended rental:** 2-day via ferrata set (1–2 Sep) — **€40** at [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) (La Villa / San Cassiano) or **€27/day** at [INTERSPORT Val Gardena](https://www.valgardenasport.com/en/via-ferrata-set/) (Selva).
+**Recommended rental:** 2-day via ferrata set (2–3 Sep) — **€40/set** at [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) (La Villa / San Cassiano). **Book 5 sets** if all climbers need gear.
 
 ---
 
 ## 1. Via ferrata equipment (mandatory on ferrata days)
 
-Required on **1 Sep** (Gran Cir) and **2 Sep** (Ra Gusela). Do not start without a full set.
+Required on **2 Sep** (Gran Cir) and **4 Sep** (Ra Gusela). Do not start without a full set.
 
 ### Full kit
 
@@ -185,7 +185,7 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 | **Credit card** (for rental deposit) | Yes |
 | **Car rental confirmation** | Yes |
 | **Campsite booking confirmations** | Yes |
-| **Tre Cime parking confirmation (3 Sep)** | Yes — [pass.auronzo.info](https://pass.auronzo.info/) |
+| **Tre Cime parking confirmation (5 Sep)** | Yes — [pass.auronzo.info](https://pass.auronzo.info/) |
 | **Travel insurance** | Strongly recommended |
 | **EHIC / GHIC or travel medical card** | If applicable |
 
@@ -208,11 +208,13 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 
 | Day | Date | Activity | Must have |
 |-----|------|----------|-----------|
-| 1 | 31 Aug | Arrival | Camping setup, warm layer for evening |
-| 2 | 1 Sep | **Gran Cir** ferrata | Full ferrata kit, boots, layers, rain shell, 2 L water, gloves |
-| 3 | 2 Sep | **Ra Gusela** ferrata | Same ferrata kit (2nd rental day), day pack |
-| 4 | 3 Sep | **Tre Cime** hike | Boots, layers, rain shell, no ferrata kit, parking booking |
-| 5 | 4 Sep | Departure | Day pack only; tent packed |
+| 1 | 31 Aug | Arrival (Toblino) | Camping setup, warm layer for evening |
+| 2 | 1 Sep | Transfer to Val Badia | Easy walk gear only |
+| 3 | 2 Sep | **Gran Cir** ferrata | Full ferrata kit, boots, layers, rain shell, 2 L water, gloves |
+| 4 | 3 Sep | **Seceda** or Braies hike | Boots, layers, rain shell; lift ticket if Seceda |
+| 5 | 4 Sep | **Ra Gusela** ferrata | Same ferrata kit (2nd rental day), day pack |
+| 6 | 5 Sep | **Tre Cime** hike | Boots, layers, rain shell, no ferrata kit, parking booking |
+| 7 | 6 Sep | Cinque Torri + departure | Day pack only; tent packed |
 
 ---
 
@@ -255,7 +257,7 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 - [ ] Sleeping mat
 - [ ] Stove (gas bought locally)
 - [ ] Cookware, mug, cutlery
-- [ ] Food for 5 days (top up at supermarkets)
+- [ ] Food for 7 days (top up at supermarkets)
 - [ ] Cool bag
 - [ ] Headtorch
 - [ ] Towel
@@ -269,7 +271,7 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 - [ ] Insurance documents
 - [ ] Car rental confirmation
 - [ ] Campsite bookings
-- [ ] Tre Cime parking (3 Sep)
+- [ ] Tre Cime parking (5 Sep)
 - [ ] Flight tickets
 
 ---

@@ -1,6 +1,6 @@
-# Budget estimate — Dolomites trip (31 Aug – 4 Sep 2026)
+# Budget estimate — Dolomites trip (31 Aug – 6 Sep 2026)
 
-All figures in **EUR (€)**. Prices are from official or published 2026 rates where available; car hire varies by provider and booking date. Ranges show low–high realistic scenarios for **2 adults, tent + car**.
+All figures in **EUR (€)**. Prices are from official or published 2026 rates where available; car hire varies by provider and booking date. Ranges show low–high realistic scenarios for **5 people, tent(s) + car**, **7 days / 6 camping nights** (see [PLAN.md](PLAN.md) for the ≤150 km/day routing).
 
 > **Last updated:** June 2026. Re-check booking sites before paying — especially car hire and campsite totals for your exact dates.
 
@@ -10,16 +10,16 @@ All figures in **EUR (€)**. Prices are from official or published 2026 rates w
 
 | Category | Low estimate | High estimate |
 |----------|-------------|---------------|
-| Car hire (5 days, BGY) | €180 | €350 |
-| Fuel | €75 | €110 |
-| Motorway tolls | €45 | €70 |
-| Camping (4 nights) | €180 | €280 |
-| Activities & parking | €40 | €90 |
-| Via ferrata gear rental | €40 | €55 |
-| Food & supplies (5 days) | €150 | €280 |
-| Tourist taxes | €16 | €24 |
-| **Trip total (excl. flights)** | **€726** | **€1,259** |
-| **Per person** | **~€363** | **~€630** |
+| Car hire (7 days, BGY) | €250 | €490 |
+| Fuel | €90 | €130 |
+| Motorway tolls | €55 | €85 |
+| Camping (6 nights) | €350 | €520 |
+| Activities & parking | €215 | €320 |
+| Via ferrata gear rental (5 sets) | €200 | €275 |
+| Food & supplies (7 days) | €375 | €700 |
+| Tourist taxes | €40 | €55 |
+| **Trip total (excl. flights)** | **~€1,575** | **~€2,575** |
+| **Per person (÷5)** | **~€315** | **~€515** |
 
 Flights Bergamo ↔ your home city are not included.
 
@@ -29,10 +29,10 @@ Flights Bergamo ↔ your home city are not included.
 
 | Item | Price | Notes |
 |------|-------|-------|
-| Compact car, 5 days | €150–280 | Book early; late August still busy |
+| Estate / compact SUV, 7 days | €220–400 | 5 people + tent kit; book early |
 | Full insurance (CDW/scratch) | €0–80 | Often €15–20/day extra if not in base rate |
 | One-way / young driver fees | €0–50 | Usually N/A for BGY pickup/dropoff |
-| **Subtotal** | **€180–350** | Compare on [DiscoverCars](https://www.discovercars.com/), [Rentalcars](https://www.rentalcars.com/) |
+| **Subtotal** | **€250–490** | Compare on [DiscoverCars](https://www.discovercars.com/), [Rentalcars](https://www.rentalcars.com/) |
 
 **Sources:** [BGY car hire overview](https://365carhire.com/car-hire-bergamo-airport/) · [How to get to Dolomites](https://inafarawayland.com/dolomites/how-to-get-to-the-dolomites)
 
@@ -44,10 +44,10 @@ Flights Bergamo ↔ your home city are not included.
 
 | Item | Estimate | Notes |
 |------|----------|-------|
-| Total driving | ~550–700 km | BGY ↔ Dolomites + local passes |
-| Consumption | ~40–50 L | Compact car, mountain roads |
+| Total driving | ~750–900 km | Staging camp + ≤150 km/day legs + local trailheads |
+| Consumption | ~55–70 L | Estate/SUV, mountain roads |
 | Price per litre | ~€1.65–1.85 | Supermarket stations cheaper than autostrada |
-| **Subtotal** | **€75–110** | |
+| **Subtotal** | **€90–130** | |
 
 **Route (no toll on mountain SS roads):** Bergamo → A4 → A22 → Val Badia; Val Badia ↔ Cortina via Passo Falzarego / SS48; return via A22/A4.
 
@@ -60,29 +60,46 @@ Flights Bergamo ↔ your home city are not included.
 | Bergamo → Val Badia (A4 + A22) | ~€20–28 |
 | Return Bergamo | ~€20–28 |
 | Dolomites internal (SS48, SS51) | €0 (no autostrada toll gates) |
-| **Subtotal** | **€45–70** |
+| Extra staging legs (Toblino) | ~€10–15 |
+| **Subtotal** | **€55–85** |
 
 **Calculator:** [autostrade.it toll calculator](https://www.autostrade.it/en) · [Italian tolls guide](https://www.tolls.eu/italy) (~€9 per 100 km on motorways)
 
 ---
 
-## 4. Camping — 4 nights
+## 4. Camping — 6 nights
 
-### Base 1: Val Badia — 31 Aug & 1 Sep (2 nights)
+### Staging: Lago Toblino — 31 Aug (1 night)
+
+**Camping Sarche**, north of Trento — keeps day-1 drive from BGY under 150 km.
+
+| Item | Price/night | 1 night |
+|------|-------------|---------|
+| Pitch (2 adults incl.) | ~€30–45 | €30–45 |
+| Extra adults (×3) | ~€8–10 each | ~€24–30 |
+| **Subtotal staging** | | **~€54–75** |
+
+**Book:** [camping-sarche.it](https://www.camping-sarche.it/)
+
+Optional **exit night** (6 Sep) if splitting the return drive — same rates.
+
+---
+
+### Base 1: Val Badia — 1, 2 & 3 Sep (3 nights)
 
 **Recommended: Camping Al Plan**, San Vigilio di Marebbe
 
-| Item | Price/night | 2 nights |
+| Item | Price/night | 3 nights |
 |------|-------------|----------|
-| Standard pitch (2 adults incl.) | from **€42–54** | €84–108 |
-| Premium pitch (2 adults incl.) | from **€54–66** | €108–132 |
-| Electricity (metered) | **€1.10/kWh** | ~€5–15 |
-| Gas (metered, if used) | **€10.20/m³** | ~€0–10 |
+| Standard pitch (2 adults incl.) | from **€42–54** | €126–162 |
+| Extra adults (×3, est.) | ~€10 each | ~€90 |
+| Electricity (metered) | **€1.10/kWh** | ~€8–20 |
+| Gas (metered, if used) | **€10.20/m³** | ~€0–15 |
 | Südtirol / Kronplatz Guest Pass | **included** | Free local buses |
 
-**Tourist tax (South Tyrol):** ~€1.50–2.50 per adult per night → **~€6–10** for 2 nights.
+**Tourist tax (South Tyrol):** ~€1.50–2.50 per adult per night → **~€23–38** for 3 nights.
 
-| **Subtotal Base 1** | **€95–155** |
+| **Subtotal Base 1 (5 people)** | **~€247–325** |
 |---------------------|-------------|
 
 **Book:** [booking.campingalplan.com](https://booking.campingalplan.com/) · [Prices on suedtirol.info](https://www.suedtirol.info/en/en/accommodation/pdp-accommodation.77BDB07EEB9D11D4ADB500E07D7BF1D1.camping-al-plan-dolomites.san-vigilio)
@@ -91,22 +108,22 @@ Open for summer 2026 (check exact opening dates on booking portal).
 
 ---
 
-### Base 2: Cortina / Dobbiaco — 2 & 3 Sep (2 nights)
+### Base 2: Dobbiaco — 4 & 5 Sep (2 nights)
 
 **Option A: Camping Dolomiti**, Cortina (no advance reservation — arrive early)
 
 Period **1 Sep – 20 Sep 2026** (official tariff band):
 
-| Item | Per night (2 adults) | 2 nights |
+| Item | Per night (5 adults) | 2 nights |
 |------|----------------------|----------|
-| Adults (€19/person, first 3 nights) | €38 | €76 |
+| Adults (€19/person) | €95 | €190 |
 | Tent + car pitch | €7 | €14 |
-| **Nightly total** | **€45** | **€90** |
+| **Nightly total** | **€102** | **€204** |
 
 All-inclusive: electricity, WiFi, hot showers, washing machines.  
-**Tourist tax:** **€2/person/night** (first 5 nights, adults) → **€8** for 2 nights.
+**Tourist tax:** **€2/person/night** → **€20** for 2 nights (5 adults).
 
-| **Subtotal Option A** | **~€98** |
+| **Subtotal Option A (5 people)** | **~€224** |
 |-----------------------|----------|
 
 **Source:** [Campeggio Dolomiti — prices 2026](https://campeggiodolomiti.it/en/prices-and-rules/)
@@ -117,24 +134,25 @@ All-inclusive: electricity, WiFi, hot showers, washing machines.
 
 | Item | Estimate |
 |------|----------|
-| Pitch (2 adults, summer 2026) | **~€36–50/night** |
-| 2 nights | **€72–100** |
+| Pitch (2 adults incl., summer 2026) | **~€36–50/night** |
+| Extra adults (×3, est.) | ~€10 each |
+| 2 nights (5 adults) | **~€112–160** |
 | Südtirol Guest Pass | often included → free bus 442 to Braies |
 
 **Book:** [camping-olympia.com](https://www.camping-olympia.com/en/lago-di-braies-camping/) · Tel. +39 0474 972 147
 
-| **Subtotal Option B** | **€72–110** (+ tourist tax ~€8) |
+| **Subtotal Option B (5 people)** | **~€132–180** (+ tourist tax ~€20) |
 |-----------------------|----------------------------------|
 
 ---
 
-### Camping total (4 nights)
+### Camping total (6 nights, 5 people)
 
 | Scenario | Total |
 |----------|-------|
-| Al Plan standard + Camping Dolomiti | **~€193** |
-| Al Plan premium + Camping Olympia | **~€265** |
-| **Planning range** | **€180–280** |
+| Sarche + Al Plan standard + Olympia | **~€430** |
+| Sarche + Al Plan premium + Olympia | **~€520** |
+| **Planning range** | **€350–520** |
 
 **Map of alternatives:** [45 campsites — interactive map](https://mountainsforeverybody.com/campsites-in-the-dolomites-interactive-map/)
 
@@ -158,7 +176,7 @@ Gloves: buy ~€10–15 or bring your own.
 
 ---
 
-### Tre Cime di Lavaredo — Tuesday 3 Sep
+### Tre Cime di Lavaredo — Thursday 5 Sep
 
 **Option 1 — Drive (recommended if you have the car)**
 
@@ -213,29 +231,41 @@ Only budget if weather forces a low-altitude day.
 
 ---
 
-### Activities subtotal
+### Seceda cable car — 3 Sep (optional)
+
+| Item | Price | 5 people |
+|------|-------|----------|
+| Return ticket | ~€25–35/person | **€125–175** |
+
+Budget only if you choose Seceda over free early Braies on day 4.
+
+---
+
+### Activities subtotal (5 people)
 
 | Scenario | Cost |
 |----------|------|
-| Tre Cime by car + free Braies visit | **€40** |
-| Tre Cime shuttle + paid Braies parking | **€62–66** |
-| **Planning range** | **€40–90** |
+| Tre Cime by car + free Braies + Seceda (all 5) | **~€165–215** |
+| Tre Cime shuttle (×5) + no Seceda | **~€150** |
+| **Planning range** | **€40–320** |
+
+Shared group items (Tre Cime parking €40) split **€8/person** among 5.
 
 ---
 
 ## 6. Food & supplies
 
-| Item | 5 days, 2 adults |
-|------|----------------|
-| Self-catering (shops, campsite cooking) | €120–180 |
-| Mix: self-cook + 2–3 rifugio lunches | €180–250 |
-| Mostly eating out | €250–350 |
+| Item | 7 days, 5 people |
+|------|------------------|
+| Self-catering (shops, campsite cooking) | €300–450 |
+| Mix: self-cook + 3–4 rifugio lunches | €450–625 |
+| Mostly eating out | €625–875 |
 
 **Rifugio lunch** on trail: ~€15–25/person (plat du jour + drink).
 
 **Supermarkets:** Eurospin, Despar, Unimarkt in San Vigilio, Cortina, Dobbiaco.
 
-| **Subtotal** | **€150–280** |
+| **Subtotal** | **€375–700** |
 
 ---
 
@@ -243,45 +273,44 @@ Only budget if weather forces a low-altitude day.
 
 | Location | Rate | Your stay |
 |----------|------|-----------|
-| South Tyrol (Al Plan, Olympia) | ~€1.50–2.50/adult/night | 2 nights × 2 adults ≈ **€8–12** |
-| Cortina / Belluno (Camping Dolomiti) | **€2/adult/night** (first 5 nights) | 2 nights × 2 adults = **€8** |
+| South Tyrol (Al Plan, Olympia) | ~€1.50–2.50/adult/night | 5 nights × 5 adults ≈ **€38–63** |
+| Trentino (Sarche, if applicable) | ~€1–2/adult/night | 1 night × 5 ≈ **€5–10** |
 
-| **Subtotal** | **€16–24** |
+| **Subtotal (5 people)** | **€40–55** |
 
 Often paid at campsite checkout; not always included in pitch price.
 
 ---
 
-## 8. One-page trip budget (2 adults)
+## 8. One-page trip budget (5 people, 7 days)
 
-### Lean budget (~€730 total excl. flights)
+### Lean budget (~€1,575 total excl. flights)
 
-| Line | € |
-|------|---|
-| Car hire (basic, 5 days) | 200 |
-| Fuel + tolls | 110 |
-| Camping (Al Plan standard + Dolomiti) | 190 |
-| Ferrata kit (2 days) | 40 |
-| Tre Cime parking | 40 |
-| Braies (free early morning) | 0 |
-| Food (self-catering) | 150 |
-| Tourist tax | 16 |
-| **Total** | **~746** |
+| Line | € | Per person |
+|------|---|------------|
+| Car hire (estate, 7 days) | 280 | 56 |
+| Fuel + tolls | 130 | 26 |
+| Camping (Sarche + Al Plan + Olympia) | 430 | 86 |
+| Ferrata kit (5 sets × 2 days) | 200 | 40 |
+| Tre Cime parking | 40 | 8 |
+| Braies (free early morning) | 0 | 0 |
+| Food (self-catering) | 375 | 75 |
+| Tourist tax | 40 | 8 |
+| **Total** | **~1,495** | **~€299** |
 
-### Comfortable budget (~€1,050 total excl. flights)
+### Comfortable budget (~€2,100 total excl. flights)
 
-| Line | € |
-|------|---|
-| Car hire (with insurance) | 300 |
-| Fuel + tolls | 120 |
-| Camping (premium + Olympia) | 240 |
-| Ferrata kit | 50 |
-| Tre Cime parking | 40 |
-| Braies parking one afternoon | 44 |
-| Food (mix rifugio + shops) | 220 |
-| Tourist tax | 20 |
-| Seceda cable car (backup) | 30 |
-| **Total** | **~1,064** |
+| Line | € | Per person |
+|------|---|------------|
+| Car hire (with insurance) | 400 | 80 |
+| Fuel + tolls | 150 | 30 |
+| Camping (premium pitches) | 520 | 104 |
+| Ferrata kit | 275 | 55 |
+| Tre Cime parking | 40 | 8 |
+| Seceda cable car (5 people) | 150 | 30 |
+| Food (mix rifugio + shops) | 550 | 110 |
+| Tourist tax | 50 | 10 |
+| **Total** | **~2,135** | **~€427** |
 
 ---
 
@@ -289,13 +318,15 @@ Often paid at campsite checkout; not always included in pitch price.
 
 | Priority | What | Book at | Target date | Cost to lock |
 |----------|------|---------|-------------|--------------|
-| 🔴 High | Campsite Val Badia | [booking.campingalplan.com](https://booking.campingalplan.com/) | ASAP | ~€85–130 deposit |
-| 🔴 High | Campsite Cortina/Dobbiaco | See above | ASAP | varies |
-| 🔴 High | Tre Cime parking **3 Sep** | [pass.auronzo.info](https://pass.auronzo.info/) | ~1 month before | €40 |
-| 🟡 Medium | Car hire | BGY airport | 2–3 months before | full prepay often |
-| 🟡 Medium | Braies (only if mid-day) | [prags.bz](https://www.prags.bz/en) | after car booked | €0–44 |
-| 🟢 Low | Ferrata kit | Alta Badia Sport | on arrival | €20/day |
-| 🟢 Optional | Via ferrata guide (1 Sep) | [Guide Dolomiti](https://www.guidedolomiti.com/en/guided-via-ferrata-dolomites-with-a-local-expert/) | 2–4 weeks before | ~€250–350/group |
+| 🔴 High | Camping Sarche (31 Aug) | [camping-sarche.it](https://www.camping-sarche.it/) | ASAP | ~€30–45 |
+| 🔴 High | Campsite Val Badia (1–3 Sep) | [booking.campingalplan.com](https://booking.campingalplan.com/) | ASAP | ~€130–200 |
+| 🔴 High | Camping Olympia (4–5 Sep) | [camping-olympia.com](https://www.camping-olympia.com/en/lago-di-braies-camping/) | ASAP | ~€130–180 |
+| 🔴 High | Tre Cime parking **5 Sep** | [pass.auronzo.info](https://pass.auronzo.info/) | ~Aug 5 | €40 |
+| 🟡 Medium | Car hire (7 days) | BGY airport | 2–3 months before | full prepay often |
+| 🟡 Medium | Braies (only if mid-day 3 Sep) | [prags.bz](https://www.prags.bz/en) | after car booked | €0–44 |
+| 🟢 Low | Ferrata kit × 5 | Alta Badia Sport | 2 Sep | €40/2 days per set |
+| 🟢 Optional | Via ferrata guide (2 Sep) | [Guide Dolomiti](https://www.guidedolomiti.com/en/guided-via-ferrata-dolomites-with-a-local-expert/) | 2–4 weeks before | ~€250–350/group |
+| 🟢 Optional | Sarche exit night (6 Sep) | [camping-sarche.it](https://www.camping-sarche.it/) | if splitting return | ~€54–75 |
 
 ---
 
