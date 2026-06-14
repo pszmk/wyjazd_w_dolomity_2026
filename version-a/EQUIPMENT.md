@@ -10,14 +10,16 @@ See also: [PLAN.md](PLAN.md) · [BUDGET.md](BUDGET.md) · [SOURCES.md](SOURCES.m
 
 ## Quick reference — rent vs bring
 
-| Category | Bring from home | Rent locally | Buy on arrival |
-|----------|-----------------|--------------|----------------|
-| Via ferrata kit | Gloves (recommended) | Harness, helmet, lanyard | Gloves if forgotten |
+| Category | Bring from home | Rent locally | Buy on arrival | Buy in Poland (appendix) |
+|----------|-----------------|--------------|----------------|--------------------------|
+| Via ferrata kit | Gloves (recommended) | Harness, helmet, lanyard | Gloves if forgotten | Full set before trip — [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland) |
 | Hiking | Boots, clothes, backpack | — | Sunscreen, blister plasters |
 | Camping | Tent, sleeping gear, stove | — | Gas canister, food |
 | Safety | First aid, phone, power bank | — | — |
 
 **Recommended rental:** 2-day via ferrata set (2–3 Sep) — **€40/set** at [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) (La Villa / San Cassiano). **Book 5 sets** if all climbers need gear.
+
+**Alternative:** buy kits in Poland before departure — often pays off if you already ferrata regularly or run **Version B + Version A** back-to-back. See [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland).
 
 ---
 
@@ -197,6 +199,7 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 |------|-----|
 | Rope, trad climbing rack | Beginner ferratas use fixed cables only |
 | Via ferrata kit (if renting) | Save weight — rent locally |
+| Via ferrata kit (if bought in PL) | Pack in hold luggage — see [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland) |
 | Gas canister on plane | Buy in Italy |
 | Heavy camping furniture | Keep car space for gear |
 | Drone (without permit) | **Banned** in most Dolomites nature parks without ENAC permit — [2026 restrictions](https://wildconnectionsphotography.com/new-2026-access-restrictions-in-the-dolomites/) |
@@ -220,11 +223,11 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 
 ## 8. Packing checklist (printable)
 
-### Via ferrata (rented locally unless you own kit)
+### Via ferrata (rent in Italy **or** buy in Poland — [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland))
 
-- [ ] Helmet — **rent**
-- [ ] Harness — **rent**
-- [ ] Via ferrata lanyard (Y + absorber) — **rent**
+- [ ] Helmet — **rent** or **own**
+- [ ] Harness — **rent** or **own**
+- [ ] Via ferrata lanyard (Y + absorber) — **rent** or **own**
 - [ ] Gloves — **bring**
 
 ### Hiking
@@ -297,3 +300,80 @@ Buy **gas canisters** at supermarket or camping shop on **day 1** near Val Badia
 | 16 things before first ferrata | [In A Faraway Land](https://inafarawayland.com/beginners-guide-to-via-ferrata-climbing-in-the-italian-dolomites/) |
 | Gear rental prices | [BUDGET.md](BUDGET.md) |
 | Day-by-day plan | [PLAN.md](PLAN.md) |
+
+---
+
+## Appendix A — Optional: buying ferrata kits in Poland
+
+Buy at home if you want your own fit-tested gear, avoid rental queues in Italy, or plan **more ferrata trips after this holiday**. Rental in Italy remains the default for a one-off trip — see [§1 rental table](#full-kit) above and [Version B Day 5](../version-b/PLAN.md#day-5--sat-5-sep-busatte-tempesta--via-ferrata-colodri) (Arco).
+
+### What to buy (each climber)
+
+| Item | Requirement |
+|------|-------------|
+| **Harness** | UIAA/CE climbing harness; try on in shop — adjustable leg loops |
+| **Via ferrata lanyard** | Y-lanyard with **energy absorber** + **two auto-locking carabiners** (type K / one-hand). Not a static sling or dog leash |
+| **Helmet** | UIAA/CE **climbing** helmet (not bike/ski) |
+
+**Also bring:** fingerless or thin leather **gloves** (rarely included in shop bundles).
+
+Ready-made **zestaw ferratowy** (harness + lanyard + helmet) is the simplest option for beginners — elements are matched and often cheaper than buying separately.
+
+### Rent vs buy — this trip (5 people)
+
+| Option | Version A only | Version B only | B + A combined |
+|--------|----------------|----------------|----------------|
+| **Rent in Italy** | **~€200** (5 × €40, 2 days Alta Badia) | **~€80–135** (Colodri, Arco) | **~€280–335** |
+| **Buy in Poland** | **~€900–1,250** (5 × entry kit, one-off) | same kits cover Colodri | same — no extra rental |
+
+Rough buy-in: **800–1,100 zł** per entry-level complete set (~**€180–250**); **5 sets ≈ 4,000–5,500 zł** ([climb2change price guide 2026](https://climb2change.pl/sprzet-na-via-ferraty-co-jest-potrzebne/)).
+
+**Rule of thumb:** renting wins for a **single week** if nobody keeps climbing. Buying wins if the group will use kits on **future ferrata trips** (Polish Sudety, Tatry ferraty, next Dolomites holiday) or you want identical, pre-fitted gear for all five.
+
+### Where to buy (Poland)
+
+| Shop | Notes | Link |
+|------|-------|------|
+| **Skalnik** | Wide ferrata range; try harness in store | [skalnik.pl — via ferraty](https://www.skalnik.pl/sprzet-wspinaczkowy/inne-via-ferraty) |
+| **Rock Point** | Bundles e.g. Singing Rock Packet Ferrata (~737 zł) | [rockpoint.pl](https://www.rockpoint.pl/) — search “zestaw ferrata” |
+| **8a.pl** | Ocun, CT, Petzl, Edelrid | [8a.pl](https://8a.pl/) |
+| **Decathlon** | Budget entry kits — check UIAA/CE on lanyard | [decathlon.pl](https://www.decathlon.pl/) |
+| **Natugo** | Guides + Ocun bundles | [natugo.pl](https://natugo.pl/) |
+
+**Before paying:** confirm **UIAA + CE** marks on harness, lanyard absorber, and helmet. Prefer shops where staff can help size harnesses.
+
+**Example entry bundles (2026, verify stock):**
+
+| Set | Indicative price | Link |
+|-----|------------------|------|
+| Singing Rock Packet Ferrata III | ~737 zł | [Rock Point](https://www.rockpoint.pl/zestaw-singing-rock-packet-ferrata-iii-hex_z156434/) |
+| Ocun / CT / Salewa bundles | 800–1,100 zł | [Skalnik](https://www.skalnik.pl/sprzet-wspinaczkowy/inne-via-ferraty) · [8a.pl](https://8a.pl/) |
+
+### Packing for the flight
+
+| Item | Carry-on | Hold luggage |
+|------|----------|--------------|
+| Harness + lanyard | Usually OK | OK |
+| Helmet | **Often restricted** — check airline | **Recommended** (pad inside bag) |
+| Gloves | Carry-on | — |
+
+- One **duffel or kit bag per 2 sets** keeps car boot tidy alongside camping gear.
+- **Do not** pack gas canisters — buy in Italy ([§4](#4-camping-equipment-4-nights)).
+
+### If you bought in Poland — skip Italian rental
+
+| Plan | Ferrata days | Action on arrival |
+|------|--------------|-------------------|
+| **Version A** | 2 Sep Gran Cir, 4 Sep Ra Gusela | Skip Alta Badia rental; use own kits both days |
+| **Version B** | 5 Sep Colodri | Skip Arco/Mmove rental |
+| **B → A** | Colodri + Gran Cir + Ra Gusela | One set per person for entire block |
+
+Update booking checklist: remove ferrata rental rows; add “kit packed & sized” before departure.
+
+### Further reading (PL)
+
+| Topic | Link |
+|-------|------|
+| Sprzęt na via ferraty — lista i ceny | [climb2change.pl](https://climb2change.pl/sprzet-na-via-ferraty-co-jest-potrzebne/) |
+| Jaki sprzęt wybrać | [Natugo](https://natugo.pl/blog/jaki-sprzet-wybrac-na-via-ferrate) |
+| Technique (EN) | [Brooke Beyond — beginner guide](https://brookebeyond.com/via-ferrata-in-the-italian-dolomites) |

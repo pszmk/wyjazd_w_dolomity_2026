@@ -12,13 +12,15 @@
 
 **All links:** see [SOURCES.md](SOURCES.md).
 
+**Activity rules:** [PRINCIPLES.md](../PRINCIPLES.md)
+
 ---
 
 ## Calendar
 
 | Day | Date | Overnight | Main activity | Drive (km) |
 |-----|------|-----------|---------------|------------|
-| 1 | **Sat 31 Aug** | **Camping del Sole**, Lake Iseo | Arrive BGY → easy staging | **~26** |
+| 1 | **Sat 31 Aug** | **Camping del Sole**, Lake Iseo | Arrive BGY → arrival camp | **~26** |
 | 2 | **Sun 1 Sep** | **Camping Colfosco**, Corvara | Transfer → acclimatise | **~125** |
 | 3 | **Mon 2 Sep** | Colfosco | **Via Ferrata Gran Cir** | **~16** RT |
 | 4 | **Tue 3 Sep** | Colfosco | **Seceda ridge** (cable car) | **~30** RT |
@@ -69,7 +71,7 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 | Base | Nights | Campsite | Closest hikes | Drive to trailhead |
 |------|--------|----------|---------------|-------------------|
-| Staging | 31 Aug | **Camping del Sole**, Lake Iseo | Lake walk, acclimatisation | — |
+| Staging | 31 Aug | **Camping del Sole**, Lake Iseo | Arrival camp | — |
 | Alta Badia | 1–3 Sep | **Camping Colfosco**, Corvara/Colfosco | Gran Cir, Seceda | **8–15 km** |
 | Alta Pusteria | 4–5 Sep | **Camping Olympia**, Dobbiaco | Ra Gusela, Tre Cime, Braies bus | **15–25 km** |
 
@@ -115,13 +117,26 @@ All links: [SOURCES.md — Car hire](SOURCES.md#car-driving--airports)
 
 ## Day 1 — Sat 31 Aug: Arrival at Lake Iseo
 
-### Schedule
+### Mountain
 
 | Time | Activity |
 |------|----------|
 | Morning / midday | Land BGY, collect rental car |
-| Afternoon | Drive to Lake Iseo (**~26 km**, ~35 min via A4 Rovato exit) |
-| Evening | Check in Camping del Sole, lakeside walk, shop in Iseo town |
+| Afternoon | Drive to Lake Iseo (**~26 km**, ~35 min via A4 Rovato exit), check in Camping del Sole |
+
+No mountain route today — travel day only.
+
+### Recovery
+
+| Time | Activity |
+|------|----------|
+| Late afternoon | Optional **swim** at del Sole lakeside beach (~30 min) |
+
+### Logistics
+
+| Time | Activity |
+|------|----------|
+| Evening | **Provision run** — supermarket in Iseo (~20 min) for days 1–2 |
 
 ### Costs today
 
@@ -135,20 +150,25 @@ All links: [SOURCES.md — Car hire](SOURCES.md#car-driving--airports)
 ### Watch
 
 - Easy first day — valley altitude ~200 m. No mountain hiking.
-- Large supermarket in Iseo (10 min walk from camp).
+- Supermarket in Iseo is a 10 min walk from camp (for provisioning only).
 
 ---
 
 ## Day 2 — Sun 1 Sep: Into Alta Badia (Colfosco)
 
-### Schedule
+### Mountain
+
+| Time | Activity |
+|------|----------|
+| Afternoon | Easy **valley walk** from camp — acclimatise to **~1,500 m** |
+
+### Logistics
 
 | Time | Activity |
 |------|----------|
 | 07:30 | Leave Iseo |
 | 10:30–11:00 | Arrive **Camping Colfosco** (**~125 km**, A4 → A22 → Bressanone → SS49/SS244 to Corvara) |
-| Midday | Pitch tent, shop in Corvara |
-| Afternoon | Easy valley walk — acclimatise to **~1,500 m** |
+| Midday | Pitch tent, **provision run** in Corvara (~20 min) |
 
 ### Costs today
 
@@ -198,6 +218,8 @@ All links: [SOURCES.md — Car hire](SOURCES.md#car-driving--airports)
 
 Rent **2 days** (2–3 Sep) → **€40** total per set at Alta Badia Sport.
 
+**Or bring own kit** bought in Poland — [EQUIPMENT.md Appendix A](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland).
+
 **Optional guide (first-timers):** ~€250–350/group — [Guide Dolomiti](https://www.guidedolomiti.com/en/guided-via-ferrata-dolomites-with-a-local-expert/)
 
 ### Costs today
@@ -216,6 +238,10 @@ Rent **2 days** (2–3 Sep) → **€40** total per set at Alta Badia Sport.
 | Official route | [Val Gardena — Gran Cir](https://www.valgardena.it/en/outdoor/base/outdoor/gran-cir-gran-cir-peak/810054754/) |
 | Blog guide | [In A Faraway Land — Gran Cir](https://inafarawayland.com/via-ferrata-gran-cir/) |
 | Beginner list | [13 beginner ferratas](https://inafarawayland.com/beginner-via-ferratas-italian-dolomites/) |
+
+**Route map (marked ferrata):** [Val Gardena — interactive map](https://www.valgardena.it/en/outdoor/base/outdoor/gran-cir-gran-cir-peak/810054754/)
+
+![Via Ferrata Gran Cir — marked route on Val Gardena map](assets/maps/gran-cir.png)
 
 ---
 
@@ -238,6 +264,10 @@ Rent **2 days** (2–3 Sep) → **€40** total per set at Alta Badia Sport.
 | Drive | **~30 km** RT |
 
 **YouTube:** [Seceda hike vlog](https://www.youtube.com/watch?v=E_Y8FI4Esd0)
+
+**Route map (marked trail):** [Val Gardena Outdoor — Seceda ridge line](https://outdoor.valgardena.it/en/route/hiking-trail/seceda-ridge-line-from-ortisei/810055445/)
+
+![Seceda ridge line from Ortisei — marked trail on Val Gardena map](assets/maps/seceda.png)
 
 ### Weather backup
 
@@ -288,6 +318,10 @@ Easy **Puez-Odle** viewpoint trail from Passo Gardena (**~16 km** RT) if Seceda 
 | **Video** | [Ra Gusela loop from Passo Giau](https://www.monti.uno/video_montagna/Interessante/ferrata_e_cima_ra_gusela_anello_dal_passo_giau/9/52486) |
 | Official | [Cortina — Ra Gusela](https://cortina.dolomiti.org/en/vie-ferrate/via-ferrata-ra-gusela-en/) |
 
+**Route map (marked ferrata):** [Outdooractive — interactive map](https://www.outdooractive.com/en/route/via-ferrata/ampezzaner-dolomiten/30.-via-ferrata-ra-gusela-nuvolau-2574-m-/58456823/)
+
+![Via Ferrata Ra Gusela loop — marked route on Outdooractive map](assets/maps/ra-gusela.png)
+
 ---
 
 ## Day 6 — Thu 5 Sep: Tre Cime di Lavaredo
@@ -336,6 +370,10 @@ Shuttle runs **31 May – 11 Oct 2026**.
 | **YouTube** | [Tre Cime loop hike](https://www.youtube.com/watch?v=1jmTOj_U3qQ) |
 | 2026 guide + map | [Throne & Vine — Tre Cime](https://throneandvine.com/tre-cime-di-lavaredo-drei-zinnen-guide/) |
 | Official visitor info | [auronzo.info](https://auronzo.info/en/tre-cime-di-lavaredo-dolomites/) |
+
+**Route map (marked trail):** [Pustertal — Tre Cime circular hike map](https://www.pustertal.org/en/leisure-activities/mountains-and-hiking/hiking-in-alta-pusteria-three-peaks/tre-cime-di-lavaredo-circular-hike/) (click **Open map** on the page)
+
+![Tre Cime di Lavaredo loop — marked trail on Pustertal tourist map](assets/maps/tre-cime.png)
 
 ### Weather backup
 
@@ -424,7 +462,7 @@ Full checklist (ferrata, hiking, camping, documents): **[EQUIPMENT.md](EQUIPMENT
 | ☐ | Camping Olympia (4–5 Sep) | ASAP | [camping-olympia.com](https://www.camping-olympia.com/en/lago-di-braies-camping/) | ~€72–100 |
 | ☐ | Tre Cime parking **5 Sep, 07:00** | ~Aug 5 | [pass.auronzo.info](https://pass.auronzo.info/) | **€40** |
 | ☐ | OR Tre Cime shuttle return | ~Aug 5 | [drei-zinnen.bz/ticket](https://www.drei-zinnen.bz/en/ticket) | **€22**/person |
-| ☐ | Ferrata kit × 5 sets | On arrival 2 Sep | [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) | €40/2 days per set |
+| ☐ | Ferrata kit × 5 sets | Before trip **or** rent 2 Sep | [Appendix A — buy in PL](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) · [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) | €0 (owned) or €40/2 days per set |
 | ☐ | Sarche (optional exit night) | If staged return | [camping-sarche.it](https://www.camping-sarche.it/) | ~€54–75 |
 
 ---
