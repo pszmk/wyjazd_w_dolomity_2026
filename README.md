@@ -18,6 +18,7 @@ Activity rules (mountain-first, swim as recovery): **[PRINCIPLES.md](PRINCIPLES.
 |---------|------|----------------|--------|
 | **Version A (recommended)** | 7 | Dolomites core — Iseo staging → Colfosco → Olympia | **[version-a/](version-a/)** |
 | **Version B** | 7 | **Pre-Dolomites hiking** — Iseo + Riva bases, Monte Isola, Busatte, Colodri (1–7 Sep) | **[version-b/](version-b/)** |
+| **Version C** | 7 | **Budget Garda loop** — Iseo + Manerba + Riva, Monte Guglielmo, Colodri ferrata, camp-cook (1–7 Sep) | **[version-c/](version-c/)** |
 
 ### [version-a/](version-a/) — 7-day Dolomites
 
@@ -31,6 +32,12 @@ Pre-Dolomites hiking week — Garda & Iseo hills (Monte Isola, Punta Larici, Bus
 
 → [version-b/PLAN.md](version-b/PLAN.md) · [version-b/RESEARCH.md](version-b/RESEARCH.md)
 
+### [version-c/](version-c/) — 7-day budget Garda loop (1–7 Sep)
+
+Iseo + Manerba + Riva (3 camps), Monte Guglielmo, Rocca di Manerba, Via Ferrata Colodri, camp-cook budget. More hiking and one paid thrill than Version B; no high Dolomites.
+
+→ [version-c/PLAN.md](version-c/PLAN.md) · [version-c/BUDGET.md](version-c/BUDGET.md) · [version-c/RESEARCH.md](version-c/RESEARCH.md)
+
 ---
 
 ## All documents
@@ -43,5 +50,8 @@ Pre-Dolomites hiking week — Garda & Iseo hills (Monte Isola, Punta Larici, Bus
 | [version-a/EQUIPMENT.md](version-a/EQUIPMENT.md) | Packing checklist · [buy ferrata kits in PL](version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) |
 | [version-a/SOURCES.md](version-a/SOURCES.md) | Links and references |
 | [version-b/PLAN.md](version-b/PLAN.md) | Garda–Iseo corridor itinerary |
-| [version-b/BUDGET.md](version-b/BUDGET.md) | Corridor costs (5 days) |
+| [version-b/BUDGET.md](version-b/BUDGET.md) | Corridor costs (7 days) |
 | [version-b/RESEARCH.md](version-b/RESEARCH.md) | Distances, camps, hikes in the corridor |
+| [version-c/PLAN.md](version-c/PLAN.md) | Budget Garda loop — 3 camps, ferrata, camp kitchen |
+| [version-c/BUDGET.md](version-c/BUDGET.md) | Version C costs (7 days, Colodri included) |
+| [version-c/RESEARCH.md](version-c/RESEARCH.md) | Distances, 3 camps, Monte Guglielmo, Rocca, Colodri |
