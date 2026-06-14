@@ -1,0 +1,12 @@
+{
+  "name": "wyjazd_w_dolomity_2026",
+  "version": "1.0.0",
+  "description": "Camping road trip to the Italian Dolomites — itinerary variants for **5 people**, tent + car (beginner via ferrata, Tre Cime, Seceda).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
