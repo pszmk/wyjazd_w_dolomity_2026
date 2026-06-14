@@ -24,8 +24,8 @@
 |-----|------|-----------|---------------|------------|
 | 1 | **Tue 1 Sep** | **Camping del Sole**, Iseo | Arrive BGY → lake | **~26** |
 | 2 | **Wed 2 Sep** | **Camping del Sole**, Iseo | **Monte Guglielmo** hike | **~0–15** local |
-| 3 | **Thu 3 Sep** | **Camping La Rocca**, Manerba | Iseo → west Garda; **Salò** promenade | **~55** |
-| 4 | **Fri 4 Sep** | **Camping Brione**, Riva | **Rocca di Manerba** AM → Riva waterfront PM | **~50** |
+| 3 | **Thu 3 Sep** | **Camping La Rocca**, Manerba | Iseo → west Garda; **Salò** promenade *(or [Rocca hikes — optional](OPTIONAL-la-rocca-hiking-day.md))* | **~55** |
+| 4 | **Fri 4 Sep** | **Camping Brione**, Riva | **Rocca di Manerba** AM *(skip if optional Day 3)* → Riva waterfront PM | **~50** |
 | 5 | **Sat 5 Sep** | **Camping Brione**, Riva | Busatte–Tempesta + **Via Ferrata Colodri** | **~0–16** local |
 | 6 | **Sun 6 Sep** | **Camping Brione**, Riva | Valle dei Laghi — Castel Toblino (day trip) | **~30–35** RT |
 | 7 | **Mon 7 Sep** | — | Riva → BGY direct | **~115** |
@@ -44,8 +44,9 @@ flowchart LR
   RivaCamp -->|"Day 7 ~115 km"| BGY
 
   IseoCamp -.->|"Day 2"| MonteGuglielmo["Monte Guglielmo ~10 km"]
-  ManerbaCamp -.->|"Day 3 PM"| SaloPromenade["Salò promenade ~13 km"]
-  ManerbaCamp -.->|"Day 4 AM"| RoccaHike["Rocca di Manerba on foot"]
+  ManerbaCamp -.->|"Day 3 PM default"| SaloPromenade["Salò promenade ~13 km"]
+  ManerbaCamp -.->|"Day 3 optional"| RoccaHikeDay3["Rocca hikes on foot"]
+  ManerbaCamp -.->|"Day 4 AM default"| RoccaHike["Rocca di Manerba on foot"]
   RivaCamp -.->|"Day 5"| BusatteColodri["Busatte + Colodri ~8–16 km"]
   RivaCamp -.->|"Day 6"| ToblinoTrip["Castel Toblino ~30–35 km RT"]
 ```
@@ -124,7 +125,9 @@ flowchart LR
 | Afternoon | Drive to **Salò** (**~13 km**) — historic promenade, gelato, old-town stroll |
 | Evening | Cook at camp **OR** optional dinner in Salò |
 
-**Optional restaurant:** [Osteria di Mezzo](https://www.tripadvisor.co.uk/Restaurants-g644254-Salo_Province_of_Brescia_Lombardy.html), Salò — seasonal pasta, TripAdvisor top pick in Salò. See [Optional restaurants](#optional-restaurants-tripadvisor).
+**Prefer hiking to town strolling?** Use **[OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md)** — Rocca reserve loops on foot from camp (Routes A–C); skip Salò and do the Rocca on Day 3 PM instead of Day 4 AM.
+
+**Optional restaurant:** [Osteria di Mezzo](https://www.tripadvisor.co.uk/Restaurants-g644254-Salo_Province_of_Brescia_Lombardy.html), Salò — seasonal pasta, TripAdvisor top pick in Salò. See [Optional restaurants](#optional-restaurants-tripadvisor). *(Skip if using the optional hiking day.)*
 
 ### Costs today
 
@@ -136,7 +139,7 @@ flowchart LR
 ### Watch
 
 - **West Garda** is warmer and more Mediterranean than Iseo — sunscreen for the afternoon.
-- La Rocca sits at the **Rocca di Manerba** park trailhead — you hike it tomorrow before leaving.
+- La Rocca sits at the **Rocca di Manerba** park trailhead — main plan hikes it **Day 4 AM**; [optional plan](OPTIONAL-la-rocca-hiking-day.md) moves it to **Day 3 PM**.
 - One night only at Manerba — keep camp setup simple.
 
 **Camp:** [Camping La Rocca](https://www.laroccacamp.it/)
@@ -145,12 +148,14 @@ flowchart LR
 
 ## Day 4 — Fri 4 Sep: Rocca di Manerba → Riva del Garda
 
+If you used **[OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md)** on Day 3, **skip the morning Rocca hike** below and leave Manerba at **08:00**.
+
 ### Schedule
 
 | Time | Activity |
 |------|----------|
-| 07:30 | **Rocca di Manerba** loop through the nature reserve — **~4–8 km**, **+200–350 m**, **2–3 h**; cliff-top views over all of lower Garda |
-| 10:30 | Pack camp, leave Manerba |
+| 07:30 | **Rocca di Manerba** loop through the nature reserve — **~4–8 km**, **+200–350 m**, **2–3 h**; cliff-top views over all of lower Garda *(main plan only)* |
+| 10:30 | Pack camp, leave Manerba *(08:00 if optional Day 3 hiking)* |
 | 12:00–12:30 | Arrive **Camping Brione**, Riva (**~50 km** along SS45bis Gardesana Occidentale) |
 | Midday | Check in, lake swim |
 | Afternoon | Easy **waterfront walk** Riva → Torbole |
@@ -313,8 +318,8 @@ Remember **pane e coperto** (bread/cover charge, ~€2–3/person) on restaurant
 |----------|------|------|-----------|
 | Iseo lakeshore | 1 Sep | Easy walk | on foot |
 | **Monte Guglielmo** | 2 Sep | Full-day mountain hike | ~10 km drive |
-| Salò promenade | 3 Sep | Town / lake | ~13 km from Manerba |
-| **Rocca di Manerba** | 4 Sep | Viewpoint / nature reserve | on foot from La Rocca |
+| Salò promenade | 3 Sep | Town / lake *(main plan)* | ~13 km from Manerba |
+| **Rocca di Manerba** | 3 or 4 Sep | Viewpoint / nature reserve | on foot from La Rocca — [optional Day 3 plan](OPTIONAL-la-rocca-hiking-day.md) |
 | Riva waterfront | 4 Sep | Lake walk | on foot |
 | **Busatte–Tempesta** | 5 Sep | Scenic hike (400 steps) | ~15 min drive |
 | **Via Ferrata Colodri** | 5 Sep | Cliff ferrata (grade A–B) | ~8 km |
@@ -343,6 +348,14 @@ Remember **pane e coperto** (bread/cover charge, ~€2–3/person) on restaurant
 4. [Rocca di Manerba — Visit Manerba](https://visitmanerba.it/)
 
 Full research: [RESEARCH.md](RESEARCH.md).
+
+---
+
+## Appendix — Optional Day 3: La Rocca hiking (no towns)
+
+Skip **Salò** and hike **Parco della Rocca e del Sasso** on foot from camp on Day 3 afternoon instead of Day 4 morning.
+
+→ Full schedule, three route options (A/B/C), and Day 4 adjustment: **[OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md)**
 
 ---
 
