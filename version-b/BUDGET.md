@@ -16,15 +16,15 @@ Car hire detail: [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-c
 | Fuel | €55 | €90 |
 | Motorway tolls | €25 | €40 |
 | Camping (6 nights, 2 sites) | €320 | €500 |
-| Activities (hiking only) | €0 | €0 |
+| Activities (hiking + Colodri ferrata) | €80 | €135 |
 | Food & supplies (7 days) | €350 | €630 |
 | Tourist taxes | €30 | €42 |
-| **Trip total (excl. flights)** | **~€980** | **~€1,792** |
-| **Per person (÷5)** | **~€196** | **~€358** |
+| **Trip total (excl. flights)** | **~€1,060** | **~€1,927** |
+| **Per person (÷5)** | **~€212** | **~€385** |
 
 Flights not included. Add **~€200–350** if you extend car hire to join [Version A](../version-a/PLAN.md) for another week.
 
-Optional via ferrata (appendix): add **~€80–135** for kit rental × 5 — see [PLAN.md appendix](PLAN.md#appendix--optional-via-ferrata-not-in-main-plan).
+**Colodri ferrata (Day 5):** kit rental × 5 included in Activities line above — or **€0** if you [buy kits in Poland](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) before the trip.
 
 ---
 
@@ -55,12 +55,13 @@ Italian brands at terminal (Locauto, Sicily by Car) usually beat premium desks �
 
 ## 3. Activities
 
-Main plan: **free hiking only** (lakeshore walks, Busatte, Valle dei Laghi).
+Main plan: hiking + **Via Ferrata Colodri** (Day 5).
 
 | Item | Low | High | Notes |
 |------|-----|------|-------|
-| Busatte / lake days | €0 | €0 | Free trails |
-| Via ferrata (optional appendix) | €80 | €135 | Kit rental × 5 — not in base total |
+| Hiking trails | €0 | €0 | Free |
+| Via ferrata Colodri (kit × 5) | €80 | €135 | [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) |
+| Monte Isola ferry (Day 2, ×5) | €15 | €25 | [Navigazione Lago d'Iseo](https://www.navigazione.lake-iseo.com/) |
 
 **No cable cars or toll roads** in this corridor — much cheaper activity line than Version A.
 
@@ -74,7 +75,7 @@ Main plan: **free hiking only** (lakeshore walks, Busatte, Valle dei Laghi).
 | Motorway tolls (Iseo ↔ Riva ×2) | €25 | €40 |
 | Groceries + meals (7 days, 5 people) | €350 | €630 |
 
-**Tip:** Shop supermarkets in **Iseo**, **Riva**, and **Trento** (near Toblino day trip) — lakeside restaurants add €15–25/person per dinner.
+**Provisioning:** top up groceries at supermarkets during provision stops (Iseo Day 1, before Day 3 transfer, near Trento on Day 6 if joining Dolomites) — cook at camp to keep food costs down.
 
 ---
 
@@ -101,6 +102,6 @@ Staging **2 extra nights** (Bressanone + Sarche approach) adds ~€100–150 vs 
 |----------|------|------|
 | 🔴 | Car hire | ASAP |
 | 🔴 | Brione (3–6 Sep, 4 nights) + del Sole (1–2 Sep) | ASAP |
-| 🟡 | Ferrata kit (optional appendix) | 1–2 weeks before if adding Colodri |
+| 🟡 | Ferrata kit (Day 5, ×5) | Before trip or 1–2 weeks before | [Buy in PL](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) · [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) |
 
 Price sources: [RESEARCH.md](RESEARCH.md) · [../version-a/BUDGET.md](../version-a/BUDGET.md)
