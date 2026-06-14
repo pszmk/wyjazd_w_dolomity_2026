@@ -87,7 +87,7 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 **Scenic approach?** [Version B](../version-b/PLAN.md) covers Riva, Arco, and Valle dei Laghi over 5 days — then join Dolomites via Bressanone ([README](../version-b/README.md)).
 
-**Strict ≤100 km/day for the full trip?** Not compatible with 7 days from BGY — see [../version-c/](../version-c/) for the 15-day alternative or fly closer (Verona / Bolzano).
+**Strict ≤100 km/day for the full trip?** Not compatible with 7 days from BGY — use [Version B](../version-b/PLAN.md) as a scenic approach with extra nights, or fly closer (Verona / Bolzano).
 
 ---
 

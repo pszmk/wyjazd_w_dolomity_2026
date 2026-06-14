@@ -2,7 +2,7 @@
 
 Distance and activity research for [Version B](PLAN.md). Road km from route planners and official tourism sources (June 2026). Re-check on [Google Maps](https://maps.google.com) before booking.
 
-**Geographic scope:** the belt from **Lago d’Iseo** (east) through **Valle dei Laghi** and **Valle del Sarca** to **Riva del Garda** (north-west Garda). This is the natural **A4 / SS240 / SS45bis** approach corridor toward the Dolomites — used as staging in the [Version C plan](../version-c/RESEARCH.md) but rarely explored for its own hikes.
+**Geographic scope:** the belt from **Lago d’Iseo** (east) through **Valle dei Laghi** and **Valle del Sarca** to **Riva del Garda** (north-west Garda). This is the natural **A4 / SS240 / SS45bis** approach corridor toward the Dolomites — often used as staging but rarely explored for its own hikes.
 
 **Plan dates:** **1 – 7 Sep 2026** · **Two camps only:** [Camping del Sole](https://www.campingdelsole.it/en/) (Iseo) + [Camping Brione](https://www.campingbrione.com/EN/) (Riva).
 
@@ -17,12 +17,12 @@ Distance and activity research for [Version B](PLAN.md). Road km from route plan
 | Riva → Arco (day trip) | **~8** | ~15 min | SS240 / SS45bis along Sarca valley |
 | Riva → Toblino / Sarche (day trip) | **~30–35** RT | ~40 min each way | SS45bis north via Dro — [Valle dei Laghi cycle path ref ~27 km Torbole–Toblino](https://www.lifeintravel.it/en/travels/italy/valle-dei-laghi-cycle-path-from-lake-garda-to-lake-toblino.html) |
 | Sarche → Iseo | **~99** | ~1 h 40 min | Reverse of Iseo → Riva |
-| Sarche → Bressanone (join Dolomites) | **~98** | ~1 h 12 min | [Version C RESEARCH](../version-c/RESEARCH.md) |
+| Sarche → Bressanone (join Dolomites) | **~98** | ~1 h 12 min | Route planner estimate (A22 / SS12) |
 | Bressanone → Colfosco | **~55–65** | ~50–60 min | [Skiresort.info](https://www.skiresort.info/ski-resort/alta-badia/arrival-car/) |
 
 **7-day loop total:** ~**320 km** driving (excluding trailhead hops).
 
-**Scenic approach to Version A:** Sarche → Bressanone → Colfosco = **~155 km** over 2 days (same as [Version C days 4–5](../version-c/PLAN.md)) vs Version A’s single **~125 km** Iseo → Colfosco hop.
+**Scenic approach to Version A:** Sarche → Bressanone → Colfosco = **~155 km** over 2 days vs Version A’s single **~125 km** Iseo → Colfosco hop.
 
 ---
 
@@ -101,7 +101,6 @@ Full route detail and kit costs: [PLAN.md appendix](PLAN.md#appendix--optional-v
 |------|------------------|---------|-------------------|
 | **Version B** | **7** (full focus) | Optional appendix (Colodri) | — |
 | Version A | 1 (Iseo staging only) | Gran Cir, Ra Gusela | Seceda, Tre Cime |
-| Version C | 4 (staging in + 3 out) | Colodri possible on Riva day | Full set |
 
 ---
 

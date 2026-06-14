@@ -10,7 +10,7 @@ Regional camping plan for the **terrain between Riva del Garda and Lake Iseo**: 
 | **Camps** | **Two sites only** — Iseo (2 nights) + Riva (4 nights); no daily camp moves |
 | **Focus** | Lakes, Mediterranean trails, Busatte–Tempesta, Castel Toblino |
 
-**Not the high Dolomites** — that is [Version A](../version-a/PLAN.md). **Strict 15-day full trip:** [version-c/](../version-c/PLAN.md).
+**Not the high Dolomites** — that is [Version A](../version-a/PLAN.md).
 
 Optional **Via Ferrata Colodri** is in the [PLAN appendix](PLAN.md#appendix--optional-via-ferrata-not-in-main-plan) — not part of the main itinerary.
 
@@ -33,7 +33,7 @@ Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (sta
 | Use case | What to do |
 |----------|------------|
 | **Standalone week** | Follow [PLAN.md](PLAN.md) only — fly in/out BGY |
-| **Scenic approach to Version A** | Do days 1–6 here, then **Tue 8 Sep** drive toward Bressanone (~98 km) + join Version A from Gran Cir — same staging as [Version C approach](../version-c/PLAN.md#phase-1--approach-days-15) |
+| **Scenic approach to Version A** | Do days 1–6 here, then **Tue 8 Sep** drive toward Bressanone (~98 km) + join Version A from Gran Cir |
 | **Version A as-is** | Skip Version B — single Iseo night then direct to Colfosco ([Version A day 1–2](../version-a/PLAN.md)) |
 
 ---

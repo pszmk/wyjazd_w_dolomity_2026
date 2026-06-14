@@ -9,7 +9,7 @@ Main itinerary: **31 Aug – 6 Sep 2026**, flying in and out of **Bergamo (BGY)*
 | **Bases** | Iseo (1 night) → Colfosco (3 nights) → Dobbiaco (2 nights) |
 | **Focus** | Beginner via ferrata (grade A), camping, road trip |
 
-**Alternative:** [Version B](../version-b/PLAN.md) — **5 days** in the Garda ↔ Iseo corridor (Colodri ferrata, Toblino) before or instead of the high mountains. Strict ≤100 km full trip: [../version-c/](../version-c/).
+**Alternative:** [Version B](../version-b/PLAN.md) — **7 days** in the Garda ↔ Iseo corridor (Colodri ferrata, Toblino) before or instead of the high mountains.
 
 ---
 

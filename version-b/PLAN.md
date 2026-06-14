@@ -14,7 +14,7 @@
 
 **Distances:** [RESEARCH.md](RESEARCH.md).
 
-**Continue to Dolomites?** See [README — How this fits](README.md#how-this-fits-the-other-plans) or join [Version A](../version-a/PLAN.md) via Bressanone staging ([Version C approach](../version-c/PLAN.md)).
+**Continue to Dolomites?** See [README — How this fits](README.md#how-this-fits-the-other-plans) or join [Version A](../version-a/PLAN.md) via Bressanone staging (~98 km from Sarche).
 
 ---
 
@@ -210,7 +210,7 @@ BGY ──26km──► ISEO (del Sole) ───────── 99 km ──
 | 10:00–10:30 | Arrive **Iseo** area (**~99 km**) |
 | Option A | Same-day **Iseo → BGY (~26 km)** + afternoon flight |
 | Option B | Extra night at Camping del Sole; fly **Tue 8 Sep** |
-| Option C | **Continue north** — Riva/Sarche → Bressanone (~98 km) tomorrow; join [Version A / Version C Dolomites](../version-c/PLAN.md) |
+| Option C | **Continue north** — Riva/Sarche → Bressanone (~98 km) tomorrow; join [Version A Dolomites](../version-a/PLAN.md) |
 
 ### Costs today
 
