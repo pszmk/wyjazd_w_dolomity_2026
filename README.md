@@ -15,7 +15,7 @@ Camping road trip to the Italian Dolomites — itinerary variants for **5 people
 | Variant | Days | What it covers | Folder |
 |---------|------|----------------|--------|
 | **Version A (recommended)** | 7 | Dolomites core — Iseo staging → Colfosco → Olympia | **[version-a/](version-a/)** |
-| **Version B** | 5 | **Garda ↔ Iseo corridor** — Riva, Arco, Toblino, Colodri ferrata | **[version-b/](version-b/)** |
+| **Version B** | 7 | **Garda ↔ Iseo corridor** — Iseo + Riva bases, Busatte, Toblino (1–7 Sep) | **[version-b/](version-b/)** |
 | **Version C (strict driving)** | 15 | Full Dolomites at **≤100 km/day** (includes corridor staging) | **[version-c/](version-c/)** |
 
 ### [version-a/](version-a/) — 7-day Dolomites
@@ -24,9 +24,9 @@ Iseo → Colfosco → Olympia. Gran Cir, Seceda, Ra Gusela, Tre Cime.
 
 → Start here: [version-a/PLAN.md](version-a/PLAN.md)
 
-### [version-b/](version-b/) — 5-day Garda ↔ Iseo
+### [version-b/](version-b/) — 7-day Garda ↔ Iseo (1–7 Sep)
 
-Lake Iseo, Riva del Garda, **Via Ferrata Colodri**, Valle dei Laghi. Can stand alone or be a **scenic approach** before Version A.
+Lake Iseo, Riva del Garda (two camps only), Busatte–Tempesta, Valle dei Laghi. Optional Colodri ferrata in appendix. Can stand alone or be a **scenic approach** before Version A.
 
 → [version-b/PLAN.md](version-b/PLAN.md) · [version-b/RESEARCH.md](version-b/RESEARCH.md)
 

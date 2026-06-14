@@ -1,14 +1,16 @@
-# Trip plan — Garda ↔ Iseo corridor (31 Aug – 4 Sep 2026)
+# Trip plan — Garda ↔ Iseo corridor (1 – 7 Sep 2026)
 
-5-day camping loop from **Bergamo Airport (BGY)** through **Lake Iseo**, **Riva del Garda**, **Arco**, and **Valle dei Laghi** (Lago Toblino).
+7-day camping loop from **Bergamo Airport (BGY)** through **Lake Iseo**, **Riva del Garda**, **Arco**, and **Valle dei Laghi** (Lago Toblino).
 
 **Travellers:** 5 people, tent(s) + rental car (estate/SUV).
 
-**Driving rule:** **≤100 km per calendar day** on move days. Two long legs (~99 km) link Iseo and Riva; all other days are short.
+**Driving rule:** **≤100 km per calendar day** on move days. Two long legs (~99 km) link Iseo and Riva; all other days are short or day trips from a fixed camp.
 
-**Budget:** [BUDGET.md](BUDGET.md) — **~€850–1,350** excl. flights (5 days, 5 people).
+**Camps:** **two sites only** — **Camping del Sole** (Iseo, nights 1–2) and **Camping Brione** (Riva, nights 3–6). No daily camp moves after the transfer day.
 
-**Equipment:** [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) — ferrata kit from day 3.
+**Budget:** [BUDGET.md](BUDGET.md) — **~€900–1,450** excl. flights (7 days, 5 people).
+
+**Equipment:** [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) — standard hiking kit only (no ferrata gear unless you add the optional appendix route).
 
 **Distances:** [RESEARCH.md](RESEARCH.md).
 
@@ -20,37 +22,34 @@
 
 | Day | Date | Overnight | Main activity | Drive (km) |
 |-----|------|-----------|---------------|------------|
-| 1 | **Sat 31 Aug** | **Camping del Sole**, Iseo | Arrive BGY → lake | **~26** |
-| 2 | **Sun 1 Sep** | **Camping Brione**, Riva | Transfer + Garda north shore | **~99** |
-| 3 | **Mon 2 Sep** | **Camping Arco Prabi**, Arco | **Via Ferrata Colodri** | **~8** + **~4** RT walk |
-| 4 | **Tue 3 Sep** | **Camping Sarche**, Toblino | Valle dei Laghi, Castel Toblino | **~28** |
-| 5 | **Wed 4 Sep** | — (or Iseo night if flying Thu) | Return to Iseo / BGY | **~99** + **~26** |
+| 1 | **Tue 1 Sep** | **Camping del Sole**, Iseo | Arrive BGY → lake | **~26** |
+| 2 | **Wed 2 Sep** | **Camping del Sole**, Iseo | Iseo lakeshore, Franciacorta | **~0–15** local |
+| 3 | **Thu 3 Sep** | **Camping Brione**, Riva | Transfer + Garda north shore | **~99** |
+| 4 | **Fri 4 Sep** | **Camping Brione**, Riva | Riva waterfront, optional Punta Larici | **~0–10** local |
+| 5 | **Sat 5 Sep** | **Camping Brione**, Riva | Busatte–Tempesta / Arco valley hikes | **~0–16** local |
+| 6 | **Sun 6 Sep** | **Camping Brione**, Riva | Valle dei Laghi — Castel Toblino (day trip) | **~30–35** RT |
+| 7 | **Mon 7 Sep** | — | Return to Iseo / BGY | **~99** + **~26** |
 
-**Camping nights:** 4 (1 Iseo + 1 Riva + 1 Arco + 1 Sarche).
+**Camping nights:** 6 (2 × Iseo + 4 × Riva).
 
 ---
 
 ## Corridor map
 
 ```
-                    Monte Isola
-                        │
-BGY ──26km──► ISEO ◄─────────────── 99 km loop leg ───────────────► RIVA (Brione)
-                │                                                      │
-                │                                                      │ 8 km
-                │                                                      ▼
-                │                                                    ARCO (Colodri ferrata)
-                │                                                      │
-                │                                                      │ 28 km
-                │                                                      ▼
-                └──────────────── 99 km ──────────────────────── SARche (Toblino)
+BGY ──26km──► ISEO (del Sole) ───────── 99 km ─────────► RIVA (Brione) ── base for days 4–6
+                │                                              │
+                │                                              ├── day trip: Arco / Busatte (~8–16 km)
+                │                                              └── day trip: Toblino / Sarche (~30–35 km RT)
+                │
+                └──────────────── 99 km ───────────────────────► return leg (day 7)
                                               │
                                               └──► optional: A22 north → Dolomites
 ```
 
 ---
 
-## Day 1 — Sat 31 Aug: Arrival at Lake Iseo
+## Day 1 — Tue 1 Sep: Arrival at Lake Iseo
 
 ### Schedule
 
@@ -58,25 +57,50 @@ BGY ──26km──► ISEO ◄─────────────── 99
 |------|----------|
 | Morning / midday | Land BGY, collect rental car — [car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) |
 | Afternoon | Drive to **Camping del Sole** (**~26 km**, A4 Rovato exit) |
-| Late afternoon | Optional **Monte Isola** ferry from Iseo ([Navigazione Lago d’Iseo](https://www.navigazione.lake-iseo.com/)) — easy lakeside loop |
-| Evening | Shop in Iseo town; Franciacorta wine if you want a treat |
+| Late afternoon | Easy **lakeshore walk** in Iseo town |
+| Evening | Shop in Iseo; Franciacorta wine if you want a treat |
 
 ### Costs today
 
 | Item | € |
 |------|---|
-| Car hire (daily share) | ~€29–70 |
+| Car hire (daily share) | ~€20–50 |
 | Campsite night 1 | ~€50–80 |
-| Monte Isola ferry (optional) | ~€8–12/person return |
 
 ### Watch
 
 - Valley altitude ~200 m — no mountain exertion after travel.
-- **Tomorrow is the long drive** (~99 km) — pack camp early.
+- **Tomorrow is a rest day at the same camp** — settle in without packing up.
+
+**Camp:** [Camping del Sole](https://www.campingdelsole.it/en/)
 
 ---
 
-## Day 2 — Sun 1 Sep: Iseo → Riva del Garda
+## Day 2 — Wed 2 Sep: Lake Iseo (same camp)
+
+### Schedule
+
+| Time | Activity |
+|------|----------|
+| Morning | **Lakeshore loop** Iseo → Sulzano promenade (flat, ~8–12 km) |
+| Afternoon | Franciacorta vineyard stop or swim at camp beach |
+| Evening | Prep for **long transfer tomorrow** (~99 km) — pack camp early |
+
+### Costs today
+
+| Item | € |
+|------|---|
+| Campsite night 2 | ~€50–80 |
+
+### Watch
+
+- Last full day at Iseo — use the supermarket in town for the Garda stretch.
+
+**Camp:** [Camping del Sole](https://www.campingdelsole.it/en/)
+
+---
+
+## Day 3 — Thu 3 Sep: Iseo → Riva del Garda
 
 ### Schedule
 
@@ -85,7 +109,7 @@ BGY ──26km──► ISEO ◄─────────────── 99
 | 08:00 | Pack camp, leave Iseo |
 | 10:00–10:30 | Arrive **Camping Brione**, Riva (**~99 km** via Brescia / Salò / Gardesana) |
 | Midday | Check in, lake swim |
-| Afternoon | Easy **waterfront walk** Riva → Torbole, or **Punta Larici** short viewpoint (~3 km, +367 m) if the group is keen |
+| Afternoon | Easy **waterfront walk** Riva → Torbole |
 | Evening | Dinner in Riva old town |
 
 ### Costs today
@@ -94,113 +118,119 @@ BGY ──26km──► ISEO ◄─────────────── 99
 |------|---|
 | Motorway / tolls | ~€12–18 |
 | Fuel | ~€15–22 |
-| Campsite night 2 | ~€55–85 |
+| Campsite night 3 | ~€55–85 |
 
 ### Watch
 
 - **Longest driving day** of Version B — start early, fuel before leaving Iseo area.
-- Save **Busatte–Tempesta** for tomorrow if today was tiring.
+- You stay at Brione for **four nights** — pitch properly; no more camp moves until departure.
 
 **Camp:** [Camping Brione](https://www.campingbrione.com/EN/)
 
 ---
 
-## Day 3 — Mon 2 Sep: Via Ferrata Colodri (Arco)
-
-**Main ferrata day** — easier and warmer than Dolomites classics; ideal **first ferrata** before Version A.
+## Day 4 — Fri 4 Sep: Riva del Garda (same camp)
 
 ### Schedule
 
 | Time | Activity |
 |------|----------|
-| 08:00 | Short drive Riva → Arco (**~8 km**) |
-| 08:30 | Check in **Camping Arco Prabi** (or keep bags at Brione and return — see below) |
-| 09:00 | Walk to Colodri start (car park at camp — **~20 min** approach) |
-| 09:30–13:00 | **Via Ferrata Colodri** + descent through olive groves |
-| Afternoon | **Busatte–Tempesta** panoramic path (~10 km, 400 steps) **OR** rest at camp |
-| Evening | Optional sport-climbing taster in Arco (climbing capital of Europe) |
-
-### Route — Colodri
-
-| | |
-|---|---|
-| **Grade** | Easy / A–B |
-| **Duration** | ~1 h on wire; 3–4 h total |
-| **Start** | Camping Arco Prabi car park, Prabi ([Visit Trentino](https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464)) |
-| **Gear** | Rent in Arco — [Mmove kit ~€16/day](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) or guided from ~€49/person |
-
-**Weather backup:** **Via Ferrata Rio Sallagoni** (canyon, easy) or Busatte only.
+| Morning | **Waterfront walk** Riva → Torbole, or short swim at Brione beach |
+| Afternoon | Optional **Punta Larici** viewpoint (~3 km, +367 m) if the group is keen |
+| Evening | Rest — save legs for Busatte tomorrow |
 
 ### Costs today
 
 | Item | € |
 |------|---|
-| Campsite night 3 | ~€45–70 |
-| Ferrata kit rental × 5 | ~€80–135 (1 day) |
-| Guided option (optional) | ~€49–65/person |
+| Campsite night 4 | ~€55–85 |
 
-**Camp:** [Camping Arco Prabi](https://www.campingarco.it/en/) — ferrata starts at the gate.
-
-**Skip camp move?** Stay at Brione and day-trip to Arco — saves pitching twice; add **~16 km** RT driving.
+**Camp:** [Camping Brione](https://www.campingbrione.com/EN/)
 
 ---
 
-## Day 4 — Tue 3 Sep: Valle dei Laghi (Sarche / Toblino)
+## Day 5 — Sat 5 Sep: Garda trails from Riva (same camp)
 
 ### Schedule
 
 | Time | Activity |
 |------|----------|
-| 09:00 | Pack camp, drive Arco → **Camping Sarche** (**~28 km** via Dro / SS45bis) |
-| 10:00 | Check in; **Castel Toblino** lakeshore walk |
-| Afternoon | **Seven Lakes** stage I toward Monte Terlago (~14 km, hilly) **OR** short Covelo viewpoint hike |
-| Evening | Quiet night before return leg |
+| Morning | **Busatte–Tempesta** panoramic path (~10 km, 400 steps) — start early before heat on the steps |
+| Afternoon | Short drive to **Arco** old town (**~8 km**) and olive-grove walk **OR** rest at camp |
+| Evening | Optional sport-climbing taster in Arco (climbing capital of Europe) |
 
 ### Costs today
 
 | Item | € |
 |------|---|
-| Campsite night 4 | ~€54–75 |
-| Fuel | ~€5–8 |
+| Campsite night 5 | ~€55–85 |
+| Fuel (local) | ~€3–5 |
 
 ### Watch
 
-- Gateway to **A22** — if joining Dolomites tomorrow, shop in Trento (20 min drive) for mountain supplies.
+- **Busatte steps:** hot metal in afternoon sun — start **before 09:00** if possible.
 
-**Camp:** [Camping Sarche](https://www.camping-sarche.it/)
+**Camp:** [Camping Brione](https://www.campingbrione.com/EN/)
 
 ---
 
-## Day 5 — Wed 4 Sep: Return to Iseo & departure
+## Day 6 — Sun 6 Sep: Valle dei Laghi day trip (same camp)
 
 ### Schedule
 
 | Time | Activity |
 |------|----------|
-| 08:00 | Leave Sarche |
+| 09:00 | Drive Riva → **Castel Toblino** area (**~30–35 km** RT via Dro / SS45bis) |
+| Morning | **Castel Toblino** lakeshore walk (~5–8 km, flat) |
+| Afternoon | **Seven Lakes** stage I toward Monte Terlago (~14 km, hilly) **OR** short Covelo viewpoint hike |
+| 17:00 | Return to Brione for last camp night |
+
+### Costs today
+
+| Item | € |
+|------|---|
+| Campsite night 6 | ~€55–85 |
+| Fuel | ~€8–12 |
+
+### Watch
+
+- Gateway to **A22** — if joining Dolomites tomorrow, shop in Trento (20 min from Toblino) for mountain supplies.
+
+**Camp:** [Camping Brione](https://www.campingbrione.com/EN/)
+
+---
+
+## Day 7 — Mon 7 Sep: Return to Iseo & departure
+
+### Schedule
+
+| Time | Activity |
+|------|----------|
+| 08:00 | Pack camp, leave Riva |
 | 10:00–10:30 | Arrive **Iseo** area (**~99 km**) |
 | Option A | Same-day **Iseo → BGY (~26 km)** + afternoon flight |
-| Option B | Extra night at Camping del Sole; fly **Thu 5 Sep** |
-| Option C | **Continue north** — Sarche → Bressanone (~98 km) tomorrow; join [Version A / Version C Dolomites](../version-c/PLAN.md) |
+| Option B | Extra night at Camping del Sole; fly **Tue 8 Sep** |
+| Option C | **Continue north** — Riva/Sarche → Bressanone (~98 km) tomorrow; join [Version A / Version C Dolomites](../version-c/PLAN.md) |
 
 ### Costs today
 
 | Item | € |
 |------|---|
 | Fuel + tolls | ~€25–35 |
-| Car hire (final day) | included in 5–7 day rental |
+| Car hire (final day) | included in 7-day rental |
 
 ---
 
 ## Activity summary
 
-| Activity | Date | Type | Drive from camp |
-|----------|------|------|-----------------|
-| Monte Isola (optional) | 31 Aug | Lake hike | ferry from Iseo |
-| Punta Larici (optional) | 1 Sep | Viewpoint | ~10 km from Riva |
-| **Via Ferrata Colodri** | 2 Sep | Ferrata A/B | walk from Arco camp |
-| Busatte–Tempesta (optional) | 2 Sep | Scenic hike | ~15 km from Riva/Arco |
-| Castel Toblino / Valle dei Laghi | 3 Sep | Lake / hill walk | on foot from Sarche |
+| Activity | Date | Type | From camp |
+|----------|------|------|-----------|
+| Iseo lakeshore | 1–2 Sep | Easy walk | on foot |
+| Riva waterfront | 3–4 Sep | Lake walk | on foot |
+| Punta Larici (optional) | 4 Sep | Viewpoint | ~10 km from Brione |
+| Busatte–Tempesta | 5 Sep | Scenic hike | ~15 km from Brione |
+| Arco old town (optional) | 5 Sep | Town / olive groves | ~8 km from Brione |
+| Castel Toblino / Valle dei Laghi | 6 Sep | Lake / hill walk | ~30–35 km RT drive |
 
 ---
 
@@ -208,19 +238,34 @@ BGY ──26km──► ISEO ◄─────────────── 99
 
 | ☐ | Item | When | Link | Cost |
 |---|------|------|------|------|
-| ☐ | Car hire (5–7 days, estate/SUV) | ASAP | [Version A car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) | €140–350 |
-| ☐ | Camping del Sole (31 Aug) | ASAP | [campingdelsole.it](https://www.campingdelsole.it/en/) | ~€50–80 |
-| ☐ | Camping Brione (1 Sep) | ASAP | [campingbrione.com](https://www.campingbrione.com/EN/) | ~€55–85 |
-| ☐ | Camping Arco Prabi (2 Sep) | ASAP | [campingarco.it](https://www.campingarco.it/en/) | ~€45–70 |
-| ☐ | Camping Sarche (3 Sep) | ASAP | [camping-sarche.it](https://www.camping-sarche.it/) | ~€54–75 |
-| ☐ | Ferrata kit × 5 (or guide) | 2 Sep | [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) | ~€16–27/set or ~€49+ guided |
+| ☐ | Car hire (7 days, estate/SUV) | ASAP | [Version A car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) | €200–490 |
+| ☐ | Camping del Sole (1–2 Sep, 2 nights) | ASAP | [campingdelsole.it](https://www.campingdelsole.it/en/) | ~€100–160 |
+| ☐ | Camping Brione (3–6 Sep, 4 nights) | ASAP | [campingbrione.com](https://www.campingbrione.com/EN/) | ~€220–340 |
 
 ---
 
 ## Suggested pre-trip viewing
 
-1. [Via Ferrata Colodri — Visit Trentino route page](https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464)
-2. [Busatte–Tempesta — Trentino.com](https://www.trentino.com/en/leisure-activities/mountains-and-hiking/hiking-in-spring/busatte-tempesta-panorama-path/)
-3. [Brooke Beyond — beginner ferrata guide](https://brookebeyond.com/via-ferrata-in-the-italian-dolomites) (technique applies to Colodri too)
+1. [Busatte–Tempesta — Trentino.com](https://www.trentino.com/en/leisure-activities/mountains-and-hiking/hiking-in-spring/busatte-tempesta-panorama-path/)
+2. [Castel Toblino — Valle dei Laghi](https://www.gardatrentino.it/en/activity/covelo-bait-del-germano_45307)
 
 Full research: [RESEARCH.md](RESEARCH.md).
+
+---
+
+## Appendix — Optional via ferrata (not in main plan)
+
+If the group wants a ferrata day, add it on **Day 5** instead of (or after) Busatte. Requires ferrata kit — see [EQUIPMENT.md](../version-a/EQUIPMENT.md).
+
+### Via Ferrata Colodri (Arco)
+
+| | |
+|---|---|
+| **Grade** | Easy / A–B |
+| **Duration** | ~1 h on wire; 3–4 h total |
+| **Start** | Car park at Camping Arco Prabi, Prabi (**~8 km** from Brione) — [Visit Trentino](https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464) |
+| **Gear** | Rent in Arco — [Mmove kit ~€16/day](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) (~€80–135 for 5 sets) |
+
+**Weather backup:** **Via Ferrata Rio Sallagoni** (canyon, easy) or Busatte only.
+
+**Suggested viewing:** [Via Ferrata Colodri — Visit Trentino](https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464) · [Brooke Beyond — beginner ferrata guide](https://brookebeyond.com/via-ferrata-in-the-italian-dolomites)
