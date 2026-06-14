@@ -19,6 +19,7 @@ Regional camping plan for **Lake Iseo**, **west Garda (Manerba / Salò)**, and *
 | File | Contents |
 |------|----------|
 | [PLAN.md](PLAN.md) | Day-by-day itinerary, camp kitchen, optional restaurants, bookings |
+| [OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md) | **Optional Day 3** — Rocca hikes from La Rocca (no Salò) |
 | [RESEARCH.md](RESEARCH.md) | Distances, 3 campsites, hike sources |
 | [BUDGET.md](BUDGET.md) | Costs (7 days, 5 people, Colodri included) |
 
@@ -40,7 +41,7 @@ Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (sta
 ## Quick summary
 
 - **Days 1–2:** BGY → **Lake Iseo** — arrival + **Monte Guglielmo** (same camp)
-- **Day 3:** Iseo → **Manerba del Garda** (~55 km) — west Garda, **Salò** promenade
+- **Day 3:** Iseo → **Manerba del Garda** (~55 km) — west Garda; **Salò** promenade *or* [optional Rocca hiking day](OPTIONAL-la-rocca-hiking-day.md)
 - **Day 4:** **Rocca di Manerba** AM → **Riva** (~50 km) — transfer + waterfront
 - **Days 5–6:** **Riva base** — Busatte–Tempesta, **Via Ferrata Colodri**, Castel Toblino
 - **Day 7:** Riva → **BGY** direct (~115 km)

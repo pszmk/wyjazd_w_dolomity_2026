@@ -55,7 +55,9 @@ Distance and activity research for [Version C](PLAN.md). Road km from route plan
 | **Fallback** | Corna Trentapassi (~6–8 km, +500 m) or flat Iseo→Sulzano promenade |
 | **Sources** | Local trail maps · [Visit Lake Iseo](https://www.visitlakeiseo.info/en/) |
 
-### Rocca di Manerba (Day 4 — from La Rocca camp)
+### Rocca di Manerba (Day 3 optional or Day 4 — from La Rocca camp)
+
+Full optional day plan: **[OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md)** (hike Day 3 PM, skip Salò, transfer-only Day 4).
 
 | | |
 |---|---|
@@ -143,6 +145,7 @@ Flat **Iseo old town** walk — no ferry required. **Monte Isola ferry** from Su
 | Topic | URL |
 |-------|-----|
 | Rocca di Manerba | https://visitmanerba.it/ |
+| Optional La Rocca hiking day | [OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md) |
 | Colodri ferrata | https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464 |
 | Busatte–Tempesta | https://www.trentino.com/en/leisure-activities/mountains-and-hiking/hiking-in-spring/busatte-tempesta-panorama-path/ |
 | Cascata Varone (backup) | https://www.cascata-varone.com/en/ |
