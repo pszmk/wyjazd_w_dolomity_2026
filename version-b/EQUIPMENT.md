@@ -1,10 +1,10 @@
-# Required equipment — Dolomites trip (31 Aug – 6 Sep 2026)
+# Required equipment — Garda ↔ Iseo corridor (1 – 7 Sep 2026)
 
-Packing list for a **7-day camping road trip** with **beginner via ferrata** (Gran Cir, Ra Gusela) and day hikes (Seceda, Tre Cime).
+Packing list for a **7-day camping road trip** through **Lake Iseo** and **Lake Garda** with day hikes (Monte Isola, Punta Larici, Busatte–Tempesta, Valle dei Laghi) and one **beginner via ferrata** (Colodri, Day 5).
 
 **Assumed setup:** 5 people, tent(s), rental car from Bergamo.
 
-See also: [PLAN.md](PLAN.md) · [BUDGET.md](BUDGET.md) · [SOURCES.md](SOURCES.md)
+See also: [PLAN.md](PLAN.md) · [BUDGET.md](BUDGET.md) · [RESEARCH.md](RESEARCH.md)
 
 ---
 
@@ -14,18 +14,19 @@ See also: [PLAN.md](PLAN.md) · [BUDGET.md](BUDGET.md) · [SOURCES.md](SOURCES.m
 |----------|-----------------|--------------|----------------|--------------------------|
 | Via ferrata kit | Gloves (recommended) | Harness, helmet, lanyard | Gloves if forgotten | Full set before trip — [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland) |
 | Hiking | Boots, clothes, backpack | — | Sunscreen, blister plasters |
+| Lake recovery | Swimwear, towel | — | — |
 | Camping | Tent, sleeping gear, stove | — | Gas canister, food |
 | Safety | First aid, phone, power bank | — | — |
 
-**Recommended rental:** 2-day via ferrata set (2–3 Sep) — **€40/set** at [Alta Badia Sport](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) (La Villa / San Cassiano). **Book 5 sets** if all climbers need gear.
+**Recommended rental:** 1-day via ferrata set (5 Sep) — **~€16/set/day** at [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/). **Book 5 sets** if all climbers need gear.
 
-**Alternative:** buy kits in Poland before departure — often pays off if you already ferrata regularly or run **Garda–Iseo Corridor + Dolomites Core** back-to-back. See [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland).
+**Alternative:** buy kits in Poland before departure — pays off if you also run [Dolomites Core](../version-a/PLAN.md) or ferrata regularly. See [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland).
 
 ---
 
-## 1. Via ferrata equipment (mandatory on ferrata days)
+## 1. Via ferrata equipment (mandatory on Day 5 only)
 
-Required on **2 Sep** (Gran Cir) and **4 Sep** (Ra Gusela). Do not start without a full set.
+Required on **5 Sep** (Via Ferrata Colodri). Do not start without a full set.
 
 ### Full kit
 
@@ -38,28 +39,28 @@ Required on **2 Sep** (Gran Cir) and **4 Sep** (Ra Gusela). Do not start without
 
 ### What rental typically includes
 
-Standard Dolomites rental set = helmet + harness + lanyard with carabiners.
+Standard Garda rental set = helmet + harness + lanyard with carabiners.
 
-| Provider | Daily price | Link |
-|----------|-------------|------|
-| Alta Badia Sport | €20 | [altabadiasport.it](https://altabadiasport.it/en/bike-rental-alta-badia/via-ferrata-set) |
-| INTERSPORT Val Gardena | €27 | [valgardenasport.com](https://www.valgardenasport.com/en/via-ferrata-set/) |
-| Lagazoi (Alta Badia) | €25 | [rent.lagazoi.it](https://rent.lagazoi.it/en/equipment-rental/9-via-ferrata-kit) |
-| Passo Falzarego | €17 | [lagazuoi.it](https://lagazuoi.it/EN/Discover-Services-page22-Infopoint-Lagazuoi-equipment-rental-at-the-Falzarego-pass) |
+| Provider | Daily price | Location | Link |
+|----------|-------------|----------|------|
+| Mmove (Arco) | ~€16 | Arco — pick up before Colodri | [360gardalife — Colodri](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) |
+| Local outdoor shops | ~€15–25 | Arco, Riva, Torbole | Ask at Brione reception |
+
+**When to pick up:** evening of **4 Sep** or morning of **5 Sep** in Arco (~8 km from Brione).
 
 ### Optional ferrata extras
 
 | Item | When useful |
 |------|-------------|
-| Short via ferrata lanyard (rest lanyard) | Longer routes — not needed for Gran Cir / Ra Gusela |
-| Belay device / rope | Only with a guide or advanced routes — **not needed** |
-| Guide book / ferrata app | Nice to have; routes are well signed |
+| Short via ferrata lanyard (rest lanyard) | Longer routes — not needed for Colodri |
+| Belay device / rope | Only with a guide — **not needed** |
+| Guide book / ferrata app | Nice to have; Colodri is well signed |
 
 ### Before your first ferrata
 
 - Watch technique videos — [Brooke Beyond beginner guide](https://brookebeyond.com/via-ferrata-in-the-italian-dolomites)
 - Learn: clipping both carabiners, passing anchors, never unclipping both at once
-- Consider a **guide on 1 Sep** if first time ever — [Guide Dolomiti](https://www.guidedolomiti.com/en/guided-via-ferrata-dolomites-with-a-local-expert/)
+- **Weather backup:** Rio Sallagoni (canyon, easy) if Colodri is wet — [360gardalife](https://360gardalife.com/en/activities/tours-excursions/viaferrata/)
 
 ---
 
@@ -69,39 +70,39 @@ Standard Dolomites rental set = helmet + harness + lanyard with carabiners.
 
 | Item | Required | Notes |
 |------|----------|-------|
-| **Hiking boots** | Yes | Ankle support, stiff sole, good grip on rock and scree. Trail runners acceptable only if experienced on alpine terrain |
-| Gaiters | Optional | Useful if wet grass or light snow patches (unlikely in early Sep) |
-| Camp shoes / sandals | Optional | For campsite evenings |
+| **Hiking boots** | Yes | Good grip on rock and iron steps (Busatte). Trail runners acceptable only if experienced on exposed terrain |
+| Gaiters | Optional | Unlikely in early September at these altitudes |
+| Camp shoes / sandals | Optional | For campsite evenings and beach |
 
-### Clothing — late August / early September
+### Clothing — early September (Garda / Iseo)
 
-Mountain weather changes fast. Pack layers, not one heavy jacket.
+**Sub-Mediterranean** on Garda (olives, warm afternoons) vs **hill country** at Valle dei Laghi — pack layers, not one heavy jacket.
 
 | Layer | Items | Notes |
 |-------|-------|-------|
-| **Base** | Moisture-wicking T-shirts (2), hiking trousers or shorts | Avoid cotton for main hikes |
-| **Mid** | Fleece or light softshell | Mornings at 2,000 m can be **5–10°C** |
-| **Insulation** | Light down or synthetic puffy | Sep mornings; small packable jacket |
+| **Base** | Moisture-wicking T-shirts (2), hiking trousers or shorts | Shorts fine on Garda trails; trousers better for exposed Punta Larici |
+| **Mid** | Fleece or light softshell | Mornings and summits can be **12–18°C** |
+| **Insulation** | Light puffy (optional) | Valle dei Laghi and early Busatte starts — small packable jacket |
 | **Shell** | Waterproof jacket | **Mandatory** — afternoon showers still possible |
 | **Legs** | Waterproof over-trousers (or quick-dry trousers) | Recommended |
-| **Head** | Sun hat, warm beanie, sunglasses (cat. 3–4) | |
-| **Hands** | Thin gloves | Ferrata + cold summit mornings |
+| **Head** | Sun hat, warm beanie, sunglasses (cat. 3–4) | Strong sun on exposed Garda viewpoints |
+| **Hands** | Thin gloves | Ferrata + **Busatte iron steps** (hot metal after ~10:00) |
 
-**Valley daytime:** often **18–22°C**. **At 2,300 m (Tre Cime):** often **8–15°C** with wind.
+**Valley daytime (Garda):** often **22–28°C**. **Summits (Punta Larici ~600 m, Ceriola ~563 m):** often **15–22°C** with wind.
 
 ### Day pack contents
 
 | Item | Required | Notes |
 |------|----------|-------|
-| **Daypack** (25–35 L) | Yes | Large enough for layers, water, food, ferrata kit |
-| **Water** | Yes | 1.5–2 L per person; refill at rifugi |
+| **Daypack** (25–35 L) | Yes | Large enough for layers, water, food; ferrata kit on Day 5 |
+| **Water** | Yes | **1.5–2 L** per person; refill at rifugi / villages |
 | **Food / snacks** | Yes | Lunch if not eating at rifugio |
-| **Sunscreen SPF 50** | Yes | High UV at altitude |
+| **Sunscreen SPF 50** | Yes | High UV on exposed Garda trails |
 | **Headlamp** | Yes | Backup if hike runs long; check batteries |
 | **Map / offline GPS** | Recommended | Maps.me, Komoot, or paper map |
 | **Fully charged phone** | Yes | Emergency calls: **112** (EU) |
 | **Power bank** | Recommended | |
-| **Cash (EUR)** | Recommended | Some rifugi / parking prefer cash |
+| **Cash (EUR)** | Recommended | Ferries, parking, some rifugi prefer cash |
 | **ID / passport** | Yes | |
 | **Travel insurance docs** | Yes | Confirm mountain / activity cover |
 
@@ -109,20 +110,35 @@ Mountain weather changes fast. Pack layers, not one heavy jacket.
 
 | Item | Notes |
 |------|-------|
-| **Trekking poles** | Optional but helpful on descents (Tre Cime loop). Rent ~€6/day in Alta Badia |
+| **Trekking poles** | Optional but helpful on Punta Larici descents and Covelo hills |
 | Whistle | Optional; some packs have one built in |
 
 ---
 
-## 3. Safety & first aid
+## 3. Lake recovery (after hike / transfer days)
+
+Swim **after** mountain activity only — see [PRINCIPLES.md](../PRINCIPLES.md).
+
+| Item | Required | Notes |
+|------|----------|-------|
+| **Swimwear** | Yes | del Sole (Iseo) and Brione beaches |
+| **Towel** | Yes | Microfibre dries fast |
+| **Flip-flops / water shoes** | Optional | Rocky lake entries |
+| **Dry bag** | Optional | Phone/keys at beach |
+
+**Water temps (early Sep):** Iseo **~20–23°C**, Garda **~22–24°C** — short dips only.
+
+---
+
+## 4. Safety & first aid
 
 | Item | Required | Notes |
 |------|----------|-------|
 | **Personal first aid kit** | Yes | See list below |
 | **Blister plasters** (Compeed) | Yes | Critical with new boots |
 | Painkillers (ibuprofen / paracetamol) | Yes | |
-| Rehydration salts | Recommended | Hot hiking days |
-| Tick remover | Optional | Low risk at altitude; useful in valleys |
+| Rehydration salts | Recommended | Hot Busatte / Garda afternoons |
+| Tick remover | Optional | Low risk; useful in forest sections |
 | Any personal medication | Yes | Asthma inhaler, antihistamines, etc. |
 | Emergency blanket (bivvy) | Optional | Lightweight backup |
 
@@ -141,15 +157,17 @@ Mountain weather changes fast. Pack layers, not one heavy jacket.
 
 ---
 
-## 4. Camping equipment (4 nights)
+## 5. Camping equipment (6 nights)
+
+Two sites only — **Camping del Sole** (Iseo, 2 nights) + **Camping Brione** (Riva, 4 nights).
 
 ### Shelter & sleep
 
 | Item | Required | Notes |
 |------|----------|-------|
 | **Tent** | Yes | 3-season; withstands wind and rain |
-| **Sleeping bag** | Yes | Comfort rating **0°C to +5°C** — nights can be cool even in September |
-| **Sleeping mat / inflatable pad** | Yes | Insulation from cold ground |
+| **Sleeping bag** | Yes | Comfort rating **+5°C to +10°C** — warmer than Dolomites; nights still cool |
+| **Sleeping mat / inflatable pad** | Yes | Insulation from ground |
 | **Pillow** | Optional | Inflatable travel pillow |
 
 ### Cooking & food storage
@@ -160,7 +178,7 @@ Mountain weather changes fast. Pack layers, not one heavy jacket.
 | **Gas canister** | Yes | Screw-type (Campingaz CV270 / EN417) — **buy locally**; often cannot fly with fuel |
 | **Lighter / matches** | Yes | |
 | **Pot / pan, mug, cutlery** | Yes | |
-| **Cool bag** | Recommended | For fresh food first days |
+| **Cool bag** | Recommended | For fresh food first days at each camp |
 | **Water container** | Yes | Campsites have taps; 5–10 L useful in car |
 
 ### Campsite practical
@@ -170,60 +188,61 @@ Mountain weather changes fast. Pack layers, not one heavy jacket.
 | **EU travel adapter** | Type C/F (Italy) — for phone charging |
 | **Headtorch** | Evening campsite use |
 | **Rubbish bags** | Pack out all waste |
-| **Microfibre towel** | |
+| **Microfibre towel** | Also used for lake swims |
 | **Biodegradable soap** | |
 | **Dish sponge / small washing-up liquid** | Campsites have dishwashing areas |
-| **CEE 16A extension lead** | Optional — pitches have hook-up; metered electricity varies by site |
+| **CEE 16A extension lead** | Optional — Brione pitches may have hook-up |
 
-Campsites include hot showers (Dolomiti: included; Al Plan: included with metered electricity on pitch).
+Both campsites have hot showers. Brione has a **private lakeside beach** on site.
 
 ---
 
-## 5. Car & travel documents
+## 6. Car & travel documents
 
 | Item | Required |
 |------|----------|
 | **Driving licence** | Yes |
 | **Credit card** (for rental deposit) | Yes |
 | **Car rental confirmation** | Yes |
-| **Campsite booking confirmations** | Yes |
-| **Tre Cime parking confirmation (5 Sep)** | Yes — [pass.auronzo.info](https://pass.auronzo.info/) |
+| **Campsite booking confirmations** | Yes — del Sole (1–2 Sep) + Brione (3–6 Sep) |
 | **Travel insurance** | Strongly recommended |
 | **EHIC / GHIC or travel medical card** | If applicable |
 
+**Not needed for Garda–Iseo Corridor:** Tre Cime parking reservation (Dolomites Core only).
+
 ---
 
-## 6. What NOT to bring / not needed
+## 7. What NOT to bring / not needed
 
 | Item | Why |
 |------|-----|
-| Rope, trad climbing rack | Beginner ferratas use fixed cables only |
-| Via ferrata kit (if renting) | Save weight — rent locally |
+| Rope, trad climbing rack | Colodri uses fixed cables only |
+| Via ferrata kit (if renting) | Save weight — rent in Arco on Day 5 |
 | Via ferrata kit (if bought in PL) | Pack in hold luggage — see [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland) |
 | Gas canister on plane | Buy in Italy |
 | Heavy camping furniture | Keep car space for gear |
-| Drone (without permit) | **Banned** in most Dolomites nature parks without ENAC permit — [2026 restrictions](https://wildconnectionsphotography.com/new-2026-access-restrictions-in-the-dolomites/) |
-| Awning / chairs at Tre Cime | Overnight in vehicle only; no camping at car park |
+| Heavy winter sleeping bag | Garda corridor is warmer than high Dolomites |
+| Drone (without permit) | **Banned** in many protected areas without ENAC permit |
 
 ---
 
-## 7. Equipment by day
+## 8. Equipment by day
 
 | Day | Date | Activity | Must have |
 |-----|------|----------|-----------|
-| 1 | 31 Aug | Arrival (Lake Iseo) | Camping setup, warm layer for evening |
-| 2 | 1 Sep | Transfer to Colfosco | Easy walk gear only |
-| 3 | 2 Sep | **Gran Cir** ferrata | Full ferrata kit, boots, layers, rain shell, 2 L water, gloves |
-| 4 | 3 Sep | **Seceda** hike | Boots, layers, rain shell; lift ticket |
-| 5 | 4 Sep | **Ra Gusela** ferrata | Same ferrata kit (2nd rental day), day pack |
-| 6 | 5 Sep | **Tre Cime** hike | Boots, layers, rain shell, no ferrata kit, parking booking |
-| 7 | 6 Sep | Departure to BGY | Day pack only; tent packed |
+| 1 | 1 Sep | Arrival (Lake Iseo) | Camping setup, swimwear for optional dip |
+| 2 | 2 Sep | **Monte Isola** — Ceriola | Boots, layers, rain shell, 1.5 L water, ferry cash |
+| 3 | 3 Sep | Transfer Iseo → Riva | Easy day; swim gear for Brione beach |
+| 4 | 4 Sep | **Punta Larici** | Boots, layers, rain shell; vertigo? use SAT 422 forest path |
+| 5 | 5 Sep | **Busatte–Tempesta** + **Colodri** | Full ferrata kit, boots, gloves (steps + cables), layers, 2 L water, start **before 09:00** |
+| 6 | 6 Sep | **Covelo → Bait del Germano** | Boots, layers, rain shell, 14 km day pack |
+| 7 | 7 Sep | Departure to Iseo / BGY | Day pack only; tent packed |
 
 ---
 
-## 8. Packing checklist (printable)
+## 9. Packing checklist (printable)
 
-### Via ferrata (rent in Italy **or** buy in Poland — [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland))
+### Via ferrata (rent in Arco **or** buy in Poland — [Appendix A](#appendix-a--optional-buying-ferrata-kits-in-poland))
 
 - [ ] Helmet — **rent** or **own**
 - [ ] Harness — **rent** or **own**
@@ -235,9 +254,9 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 - [ ] Hiking boots (broken in)
 - [ ] Socks (2 pairs hiking + camp)
 - [ ] T-shirts / base layers
-- [ ] Hiking trousers
+- [ ] Hiking trousers (+ shorts optional)
 - [ ] Fleece / softshell
-- [ ] Light puffy jacket
+- [ ] Light puffy (optional)
 - [ ] Waterproof jacket
 - [ ] Waterproof trousers (recommended)
 - [ ] Sun hat + beanie
@@ -253,17 +272,22 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 - [ ] First aid kit + Compeed
 - [ ] Trekking poles (optional)
 
+### Lake recovery
+
+- [ ] Swimwear
+- [ ] Towel
+- [ ] Flip-flops (optional)
+
 ### Camping
 
 - [ ] Tent + pegs
-- [ ] Sleeping bag (0°C to +5°C comfort)
+- [ ] Sleeping bag (+5°C to +10°C comfort)
 - [ ] Sleeping mat
 - [ ] Stove (gas bought locally)
 - [ ] Cookware, mug, cutlery
 - [ ] Food for 7 days (top up at supermarkets)
 - [ ] Cool bag
 - [ ] Headtorch
-- [ ] Towel
 - [ ] Toiletries
 - [ ] Rubbish bags
 - [ ] EU plug adapter
@@ -273,26 +297,26 @@ Campsites include hot showers (Dolomiti: included; Al Plan: included with metere
 - [ ] Driving licence
 - [ ] Insurance documents
 - [ ] Car rental confirmation
-- [ ] Campsite bookings
-- [ ] Tre Cime parking (5 Sep)
+- [ ] Campsite bookings (del Sole + Brione)
 - [ ] Flight tickets
 
 ---
 
-## 9. Where to buy forgotten items
+## 10. Where to buy forgotten items
 
 | Location | Shops |
 |----------|-------|
-| San Vigilio / Corvara (Val Badia) | Sport shops, small supermarkets |
-| Selva / Ortisei (Val Gardena) | INTERSPORT, larger choice for ferrata gear |
-| Cortina d'Ampezzo | Several outdoor shops (Montura, etc.) |
-| Dobbiaco | Supermarkets, camping reception at Olympia |
+| **Iseo** | Supermarkets, basic outdoor needs (Day 1 provision) |
+| **Riva del Garda** | Several sport/outdoor shops |
+| **Arco** | Ferrata rental + outdoor shops (Mmove, local retailers) |
+| **Torbole / Nago** | Near Busatte trailhead |
+| **Trento / Sarche** | Larger supermarkets (Day 6 provision if continuing to Dolomites) |
 
-Buy **gas canisters** at supermarket or camping shop on **day 1** near Val Badia.
+Buy **gas canisters** at supermarket or camping shop on **Day 1** near Iseo.
 
 ---
 
-## 10. Further reading
+## 11. Further reading
 
 | Topic | Link |
 |-------|------|
@@ -300,12 +324,13 @@ Buy **gas canisters** at supermarket or camping shop on **day 1** near Val Badia
 | 16 things before first ferrata | [In A Faraway Land](https://inafarawayland.com/beginners-guide-to-via-ferrata-climbing-in-the-italian-dolomites/) |
 | Gear rental prices | [BUDGET.md](BUDGET.md) |
 | Day-by-day plan | [PLAN.md](PLAN.md) |
+| High Dolomites kit (Dolomites Core) | [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) |
 
 ---
 
 ## Appendix A — Optional: buying ferrata kits in Poland
 
-Buy at home if you want your own fit-tested gear, avoid rental queues in Italy, or plan **more ferrata trips after this holiday**. Rental in Italy remains the default for a one-off trip — see [§1 rental table](#full-kit) above and [Garda–Iseo Corridor Day 5](../version-b/PLAN.md#day-5--sat-5-sep-busatte-tempesta--via-ferrata-colodri) / [Garda–Iseo Corridor equipment](../version-b/EQUIPMENT.md) (Arco).
+Buy at home if you want your own fit-tested gear, avoid rental queues in Arco, or plan **Garda–Iseo Corridor + Dolomites Core** back-to-back. Rental in Arco remains the default for a one-off trip — see [§1 rental table](#what-rental-typically-includes) above.
 
 ### What to buy (each climber)
 
@@ -321,14 +346,14 @@ Ready-made **zestaw ferratowy** (harness + lanyard + helmet) is the simplest opt
 
 ### Rent vs buy — this trip (5 people)
 
-| Option | Dolomites Core only | Garda–Iseo Corridor only | Corridor + Core combined |
+| Option | Garda–Iseo Corridor only | Dolomites Core only | Corridor + Core combined |
 |--------|----------------|----------------|----------------|
-| **Rent in Italy** | **~€200** (5 × €40, 2 days Alta Badia) | **~€80–135** (Colodri, Arco) | **~€280–335** |
-| **Buy in Poland** | **~€900–1,250** (5 × entry kit, one-off) | same kits cover Colodri | same — no extra rental |
+| **Rent in Italy** | **~€80–135** (Colodri, Arco) | **~€200** (5 × €40, 2 days Alta Badia) | **~€280–335** |
+| **Buy in Poland** | **~€900–1,250** (5 × entry kit, one-off) | same kits cover Gran Cir + Ra Gusela | same — no extra rental |
 
 Rough buy-in: **800–1,100 zł** per entry-level complete set (~**€180–250**); **5 sets ≈ 4,000–5,500 zł** ([climb2change price guide 2026](https://climb2change.pl/sprzet-na-via-ferraty-co-jest-potrzebne/)).
 
-**Rule of thumb:** renting wins for a **single week** if nobody keeps climbing. Buying wins if the group will use kits on **future ferrata trips** (Polish Sudety, Tatry ferraty, next Dolomites holiday) or you want identical, pre-fitted gear for all five.
+**Rule of thumb:** renting wins for a **single week** if nobody keeps climbing. Buying wins if the group will use kits on **future ferrata trips** or you run **both Garda–Iseo Corridor and Dolomites Core** in one holiday.
 
 ### Where to buy (Poland)
 
@@ -342,30 +367,12 @@ Rough buy-in: **800–1,100 zł** per entry-level complete set (~**€180–250*
 
 **Before paying:** confirm **UIAA + CE** marks on harness, lanyard absorber, and helmet. Prefer shops where staff can help size harnesses.
 
-**Example entry bundles (2026, verify stock):**
-
-| Set | Indicative price | Link |
-|-----|------------------|------|
-| Singing Rock Packet Ferrata III | ~737 zł | [Rock Point](https://www.rockpoint.pl/zestaw-singing-rock-packet-ferrata-iii-hex_z156434/) |
-| Ocun / CT / Salewa bundles | 800–1,100 zł | [Skalnik](https://www.skalnik.pl/sprzet-wspinaczkowy/inne-via-ferraty) · [8a.pl](https://8a.pl/) |
-
-### Packing for the flight
-
-| Item | Carry-on | Hold luggage |
-|------|----------|--------------|
-| Harness + lanyard | Usually OK | OK |
-| Helmet | **Often restricted** — check airline | **Recommended** (pad inside bag) |
-| Gloves | Carry-on | — |
-
-- One **duffel or kit bag per 2 sets** keeps car boot tidy alongside camping gear.
-- **Do not** pack gas canisters — buy in Italy ([§4](#4-camping-equipment-4-nights)).
-
 ### If you bought in Poland — skip Italian rental
 
 | Plan | Ferrata days | Action on arrival |
 |------|--------------|-------------------|
-| **Dolomites Core** | 2 Sep Gran Cir, 4 Sep Ra Gusela | Skip Alta Badia rental; use own kits both days |
-| **Garda–Iseo Corridor** | 5 Sep Colodri | Skip Arco/Mmove rental — see [Garda–Iseo Corridor equipment](../version-b/EQUIPMENT.md) |
+| **Garda–Iseo Corridor** | 5 Sep Colodri | Skip Arco/Mmove rental |
+| **Dolomites Core** | 2 Sep Gran Cir, 4 Sep Ra Gusela | Skip Alta Badia rental |
 | **B → A** | Colodri + Gran Cir + Ra Gusela | One set per person for entire block |
 
 Update booking checklist: remove ferrata rental rows; add “kit packed & sized” before departure.

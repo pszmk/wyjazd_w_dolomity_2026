@@ -1,4 +1,4 @@
-# Trip plan — Garda ↔ Iseo corridor (1 – 7 Sep 2026)
+# Trip plan — Garda–Iseo Corridor (1 – 7 Sep 2026)
 
 7-day **mountain-first** camping loop from **Bergamo Airport (BGY)** through **Lake Iseo**, **Riva del Garda**, **Arco**, and **Valle dei Laghi**.
 
@@ -12,11 +12,11 @@
 
 **Budget:** [BUDGET.md](BUDGET.md) — **~€900–1,450** excl. flights (7 days, 5 people).
 
-**Equipment:** [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) — hiking kit + **via ferrata set** for Day 5 (Colodri).
+**Equipment:** [EQUIPMENT.md](EQUIPMENT.md) — hiking kit + **via ferrata set** for Day 5 (Colodri).
 
 **Distances:** [RESEARCH.md](RESEARCH.md).
 
-**Continue to Dolomites?** See [README — How this fits](README.md#how-this-fits-the-other-plans) or join [Version A](../version-a/PLAN.md) via Bressanone staging (~98 km from Sarche).
+**Continue to Dolomites?** See [README — How this fits](README.md#how-this-fits-the-other-plans) or join [Dolomites Core](../version-a/PLAN.md) via Bressanone staging (~98 km from Sarche).
 
 ---
 
@@ -198,7 +198,7 @@ Transfer day — no dedicated hike.
 
 | Time | Activity |
 |------|----------|
-| Evening | Rest — early start for **Busatte** + **Colodri** tomorrow; **rent ferrata kit in Arco** unless bringing own ([Appendix A](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland)) |
+| Evening | Rest — early start for **Busatte** + **Colodri** tomorrow; **rent ferrata kit in Arco** unless bringing own ([Appendix A](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland)) |
 
 ### Costs today
 
@@ -256,13 +256,13 @@ Transfer day — no dedicated hike.
 | Item | € |
 |------|---|
 | Campsite night 5 | ~€55–85 |
-| Ferrata kit rental (×5) | ~€80–135 | €0 if [own kits from PL](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) |
+| Ferrata kit rental (×5) | ~€80–135 | €0 if [own kits from PL](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) |
 
 ### Watch
 
 - **Busatte steps:** hot metal in afternoon sun — start **before 09:00**.
 - **Colodri:** sunny east face — no ferrata if thunderstorms forecast after 12:00.
-- First ferrata for the group — read [EQUIPMENT.md](../version-a/EQUIPMENT.md) kit list.
+- First ferrata for the group — read [EQUIPMENT.md](EQUIPMENT.md) kit list.
 
 **Camp:** [Camping Brione](https://www.campingbrione.com/EN/)
 
@@ -321,7 +321,7 @@ Transfer day — no dedicated hike.
 | 10:00–10:30 | Arrive **Iseo** area (**~99 km**) |
 | Option A | Same-day **Iseo → BGY (~26 km)** + afternoon flight |
 | Option B | Extra night at Camping del Sole; fly **Tue 8 Sep** |
-| Option C | **Continue north** — Riva/Sarche → Bressanone (~98 km) tomorrow; join [Version A Dolomites](../version-a/PLAN.md) |
+| Option C | **Continue north** — Riva/Sarche → Bressanone (~98 km) tomorrow; join [Dolomites Core](../version-a/PLAN.md) |
 
 ### Costs today
 
@@ -348,10 +348,10 @@ Transfer day — no dedicated hike.
 
 | ☐ | Item | When | Link | Cost |
 |---|------|------|------|------|
-| ☐ | Car hire (7 days, estate/SUV) | ASAP | [Version A car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) | €200–490 |
+| ☐ | Car hire (7 days, estate/SUV) | ASAP | [Dolomites Core car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) | €200–490 |
 | ☐ | Camping del Sole (1–2 Sep, 2 nights) | ASAP | [campingdelsole.it](https://www.campingdelsole.it/en/) | ~€100–160 |
 | ☐ | Camping Brione (3–6 Sep, 4 nights) | ASAP | [campingbrione.com](https://www.campingbrione.com/EN/) | ~€220–340 |
-| ☐ | Ferrata kit (5 Sep, ×5) | Before trip **or** rent in Arco | [Buy in PL — Appendix A](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) · [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) | €0 (owned) or ~€80–135 |
+| ☐ | Ferrata kit (5 Sep, ×5) | Before trip **or** rent in Arco | [Buy in PL — Appendix A](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) · [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) | €0 (owned) or ~€80–135 |
 
 ---
 

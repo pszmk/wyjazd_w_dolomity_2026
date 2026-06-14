@@ -1,4 +1,4 @@
-# Version B — Garda ↔ Iseo corridor (7 days)
+# Garda–Iseo Corridor — 7-day plan
 
 Pre-Dolomites **mountain-first** camping plan for the **terrain between Riva del Garda and Lake Iseo**: Valle del Sarca, Garda Trentino, and Valle dei Laghi.
 
@@ -10,7 +10,7 @@ Pre-Dolomites **mountain-first** camping plan for the **terrain between Riva del
 | **Camps** | **Two sites only** — Iseo (2 nights) + Riva (4 nights); no daily camp moves |
 | **Focus** | Monte Isola, Punta Larici, Busatte–Tempesta, Via Ferrata Colodri, Valle dei Laghi; **swim after hike days** |
 
-**Not the high Dolomites** — that is [Version A](../version-a/PLAN.md).
+**Not the high Dolomites** — that is [Dolomites Core](../version-a/PLAN.md).
 
 Activity rules: [PRINCIPLES.md](../PRINCIPLES.md)
 
@@ -23,8 +23,7 @@ Activity rules: [PRINCIPLES.md](../PRINCIPLES.md)
 | [PLAN.md](PLAN.md) | Day-by-day itinerary, bookings, weather |
 | [RESEARCH.md](RESEARCH.md) | Distances, campsites, hike sources |
 | [BUDGET.md](BUDGET.md) | Costs (7 days, 5 people) |
-
-Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (hiking kit + ferrata gear for Day 5; optional [buy kits in Poland](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland)).
+| [EQUIPMENT.md](EQUIPMENT.md) | Packing list — hiking, ferrata (Day 5), lake recovery, camping |
 
 ---
 
@@ -33,8 +32,8 @@ Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (hik
 | Use case | What to do |
 |----------|------------|
 | **Standalone week** | Follow [PLAN.md](PLAN.md) only — fly in/out BGY |
-| **Scenic approach to Version A** | Do days 1–6 here, then **Tue 8 Sep** drive toward Bressanone (~98 km) + join Version A from Gran Cir |
-| **Version A as-is** | Skip Version B — single Iseo night then direct to Colfosco ([Version A day 1–2](../version-a/PLAN.md)) |
+| **Scenic approach to Dolomites Core** | Do days 1–6 here, then **Tue 8 Sep** drive toward Bressanone (~98 km) + join Dolomites Core from Gran Cir |
+| **Dolomites Core as-is** | Skip Garda–Iseo Corridor — single Iseo night then direct to Colfosco ([Dolomites Core day 1–2](../version-a/PLAN.md)) |
 
 ---
 
@@ -48,4 +47,4 @@ Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (hik
 - **Day 6:** **Covelo → Bait del Germano** (Valle dei Laghi, ~14 km)
 - **Day 7:** Riva → **Iseo** (~99 km) — fly home or continue north
 
-**Car hire:** same BGY guide as Version A — [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives).
+**Car hire:** same BGY guide as Dolomites Core — [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives).

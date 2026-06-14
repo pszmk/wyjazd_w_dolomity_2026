@@ -1,6 +1,6 @@
 # Research — Garda ↔ Iseo corridor
 
-Distance and activity research for [Version B](PLAN.md). Road km from route planners and official tourism sources (June 2026). Re-check on [Google Maps](https://maps.google.com) before booking.
+Distance and activity research for [Garda–Iseo Corridor](PLAN.md). Road km from route planners and official tourism sources (June 2026). Re-check on [Google Maps](https://maps.google.com) before booking.
 
 **Geographic scope:** the belt from **Lago d’Iseo** (east) through **Valle dei Laghi** and **Valle del Sarca** to **Riva del Garda** (north-west Garda). Pre-Dolomites hiking corridor — see [PRINCIPLES.md](../PRINCIPLES.md).
 
@@ -22,7 +22,7 @@ Distance and activity research for [Version B](PLAN.md). Road km from route plan
 
 **7-day loop total:** ~**320 km** driving (excluding trailhead hops).
 
-**Scenic approach to Version A:** Sarche → Bressanone → Colfosco = **~155 km** over 2 days vs Version A’s single **~125 km** Iseo → Colfosco hop.
+**Scenic approach to Dolomites Core:** Sarche → Bressanone → Colfosco = **~155 km** over 2 days vs Dolomites Core’s single **~125 km** Iseo → Colfosco hop.
 
 ---
 
@@ -107,7 +107,7 @@ Distance and activity research for [Version B](PLAN.md). Road km from route plan
 | **Grade** | Easy / A–B — classic **first ferrata** in Garda Trentino |
 | **Duration** | ~1 h on wire; 3–4 h round trip with approach |
 | **Start** | Parking at Camping Arco Prabi, Prabi (**~8 km** from Brione) |
-| **Gear** | Helmet, harness, lanyard — rent in Arco or [buy in Poland](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) |
+| **Gear** | Helmet, harness, lanyard — rent in Arco or [buy in Poland](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) |
 | **Sources** | [Visit Trentino](https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464) · [SummitPost](https://www.summitpost.org/via-ferrata-del-colodri-sentiero-attrezzato-del-colodri/300510) |
 
 **Route map (marked ferrata):** [Visit Trentino — interactive map](https://www.visittrentino.info/en/guide/tour/via-ferrata-colodri-colt_tour_8279464#dm=1)
@@ -140,7 +140,7 @@ Flat **Iseo → Sulzano** promenade, **Riva waterfront** strolls, **Castel Tobli
 - **Sub-Mediterranean** on Garda (olives, lemons) vs **Alpine** at Toblino — pack layers.
 - **September** is ideal: warm lake swimming, fewer crowds than August ([Garda Trentino hiking](https://brionegreenresort.com/en/top-trekking-itineraries/)).
 - **Busatte steps:** hot metal in afternoon sun — start **early** ([360gardalife](https://360gardalife.com/en/route/torbole-sul-garda-nago-en/walking/lake-garda-panoramic-path-busatte-tempesta/)).
-- **Colodri (Day 5):** sunny east face — avoid midday thunderstorms (same rule as Version A).
+- **Colodri (Day 5):** sunny east face — avoid midday thunderstorms (same rule as Dolomites Core).
 
 ---
 
@@ -148,8 +148,8 @@ Flat **Iseo → Sulzano** promenade, **Riva waterfront** strolls, **Castel Tobli
 
 | Plan | Days in corridor | Ferrata | Dolomites classics |
 |------|------------------|---------|-------------------|
-| **Version B** | **7** (full focus) | Colodri (Day 5) | — |
-| Version A | 1 (Iseo arrival only) | Gran Cir, Ra Gusela | Seceda, Tre Cime |
+| **Garda–Iseo Corridor** | **7** (full focus) | Colodri (Day 5) | — |
+| Dolomites Core | 1 (Iseo arrival only) | Gran Cir, Ra Gusela | Seceda, Tre Cime |
 
 ---
 

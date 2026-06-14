@@ -4,7 +4,7 @@ Camping road trip to the Italian Dolomites — itinerary variants for **5 people
 
 | | |
 |---|---|
-| **Dates (Version A)** | Saturday **31 August** – Friday **6 September 2026** |
+| **Dates (Dolomites Core)** | Saturday **31 August** – Friday **6 September 2026** |
 | **Airport** | Bergamo (BGY) |
 | **Focus** | Grade A via ferrata, Tre Cime, Seceda, camping |
 
@@ -16,25 +16,25 @@ Activity rules (mountain-first, swim as recovery): **[PRINCIPLES.md](PRINCIPLES.
 
 | Variant | Days | What it covers | Folder |
 |---------|------|----------------|--------|
-| **Version A (recommended)** | 7 | Dolomites core — Iseo staging → Colfosco → Olympia | **[version-a/](version-a/)** |
-| **Version B** | 7 | **Pre-Dolomites hiking** — Iseo + Riva bases, Monte Isola, Busatte, Colodri (1–7 Sep) | **[version-b/](version-b/)** |
-| **Version C** | 7 | **Budget Garda loop** — Iseo + Manerba + Riva, Monte Guglielmo, Colodri ferrata, camp-cook (1–7 Sep) | **[version-c/](version-c/)** |
+| **Dolomites Core** (recommended) | 7 | Iseo staging → Colfosco → Olympia — Gran Cir, Seceda, Ra Gusela, Tre Cime | **[version-a/](version-a/)** |
+| **Garda–Iseo Corridor** | 7 | Pre-Dolomites hiking — Iseo + Riva bases, Monte Isola, Busatte, Colodri (1–7 Sep) | **[version-b/](version-b/)** |
+| **Budget Garda Loop** | 7 | Iseo + Manerba + Riva, Monte Guglielmo, Colodri ferrata, camp-cook (1–7 Sep) | **[version-c/](version-c/)** |
 
-### [version-a/](version-a/) — 7-day Dolomites
+### [version-a/](version-a/) — Dolomites Core
 
 Iseo → Colfosco → Olympia. Gran Cir, Seceda, Ra Gusela, Tre Cime.
 
 → Start here: [version-a/PLAN.md](version-a/PLAN.md)
 
-### [version-b/](version-b/) — 7-day Garda ↔ Iseo (1–7 Sep)
+### [version-b/](version-b/) — Garda–Iseo Corridor (1–7 Sep)
 
-Pre-Dolomites hiking week — Garda & Iseo hills (Monte Isola, Punta Larici, Busatte, Colodri, Valle dei Laghi). Can stand alone or be a **scenic approach** before Version A.
+Pre-Dolomites hiking week — Garda & Iseo hills (Monte Isola, Punta Larici, Busatte, Colodri, Valle dei Laghi). Can stand alone or be a **scenic approach** before Dolomites Core.
 
 → [version-b/PLAN.md](version-b/PLAN.md) · [version-b/RESEARCH.md](version-b/RESEARCH.md)
 
-### [version-c/](version-c/) — 7-day budget Garda loop (1–7 Sep)
+### [version-c/](version-c/) — Budget Garda Loop (1–7 Sep)
 
-Iseo + Manerba + Riva (3 camps), Monte Guglielmo, Rocca di Manerba, Via Ferrata Colodri, camp-cook budget. More hiking and one paid thrill than Version B; no high Dolomites.
+Iseo + Manerba + Riva (3 camps), Monte Guglielmo, Rocca di Manerba, Via Ferrata Colodri, camp-cook budget. More hiking and one paid thrill than Garda–Iseo Corridor; no high Dolomites.
 
 → [version-c/PLAN.md](version-c/PLAN.md) · [version-c/BUDGET.md](version-c/BUDGET.md) · [version-c/RESEARCH.md](version-c/RESEARCH.md)
 
@@ -52,6 +52,7 @@ Iseo + Manerba + Riva (3 camps), Monte Guglielmo, Rocca di Manerba, Via Ferrata 
 | [version-b/PLAN.md](version-b/PLAN.md) | Garda–Iseo corridor itinerary |
 | [version-b/BUDGET.md](version-b/BUDGET.md) | Corridor costs (7 days) |
 | [version-b/RESEARCH.md](version-b/RESEARCH.md) | Distances, camps, hikes in the corridor |
+| [version-b/EQUIPMENT.md](version-b/EQUIPMENT.md) | Garda–Iseo packing list · ferrata (Day 5) · lake recovery |
 | [version-c/PLAN.md](version-c/PLAN.md) | Budget Garda loop — 3 camps, ferrata, camp kitchen |
 | [version-c/OPTIONAL-la-rocca-hiking-day.md](version-c/OPTIONAL-la-rocca-hiking-day.md) | Optional Day 3 — Rocca hikes from La Rocca (no towns) |
 | [version-c/BUDGET.md](version-c/BUDGET.md) | Version C costs (7 days, Colodri included) |

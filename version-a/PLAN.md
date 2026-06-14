@@ -1,4 +1,4 @@
-# Trip plan — Dolomites, 31 Aug – 6 Sep 2026
+# Trip plan — Dolomites Core (31 Aug – 6 Sep 2026)
 
 7-day camping road trip from **Bergamo Airport (BGY)**. Focus: **beginner via ferrata** (grade A, fully protected), no hard unprotected scrambling.
 
@@ -87,9 +87,9 @@ Wild camping is **illegal** in Dolomites nature parks.
 
 **5 people:** book a **large pitch** or **two adjacent pitches**; confirm extra-adult fees when booking Colfosco and Olympia.
 
-**Scenic approach?** [Version B](../version-b/PLAN.md) covers Riva, Arco, and Valle dei Laghi over 5 days — then join Dolomites via Bressanone ([README](../version-b/README.md)).
+**Scenic approach?** [Garda–Iseo Corridor](../version-b/PLAN.md) covers Riva, Arco, and Valle dei Laghi over 5 days — then join Dolomites via Bressanone ([README](../version-b/README.md)).
 
-**Strict ≤100 km/day for the full trip?** Not compatible with 7 days from BGY — use [Version B](../version-b/PLAN.md) as a scenic approach with extra nights, or fly closer (Verona / Bolzano).
+**Strict ≤100 km/day for the full trip?** Not compatible with 7 days from BGY — use [Garda–Iseo Corridor](../version-b/PLAN.md) as a scenic approach with extra nights, or fly closer (Verona / Bolzano).
 
 ---
 

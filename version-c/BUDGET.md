@@ -24,20 +24,20 @@ Car hire detail: [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-c
 
 Flights not included. Optional restaurant meals (1–2 dinners × 5 people): add **€0–250** — not in base total.
 
-Add **~€200–350** if you extend car hire to join [Version A](../version-a/PLAN.md) for another week.
+Add **~€200–350** if you extend car hire to join [Dolomites Core](../version-a/PLAN.md) for another week.
 
 ---
 
 ## 1. Car hire
 
-Same vehicle and booking strategy as Version A — **estate / compact SUV / MPV** at **BGY**.
+Same vehicle and booking strategy as Dolomites Core — **estate / compact SUV / MPV** at **BGY**.
 
 | Duration | Low | High |
 |----------|-----|------|
-| **7 days** (Version C only) | €200 | €490 |
-| **14 days** (C + full Version A) | €380 | €780 |
+| **7 days** (Budget Garda Loop only) | €200 | €490 |
+| **14 days** (Budget Garda Loop + full Dolomites Core) | €380 | €780 |
 
-Italian brands at terminal (Locauto, Sicily by Car) usually beat premium desks — see [Version A comparison table](../version-a/BUDGET.md#comparison-sites-search-all--prices-differ).
+Italian brands at terminal (Locauto, Sicily by Car) usually beat premium desks — see [Dolomites Core comparison table](../version-a/BUDGET.md#comparison-sites-search-all--prices-differ).
 
 ---
 
@@ -66,7 +66,7 @@ Colodri ferrata is **in the main plan** (Day 5) — not optional.
 | Via Ferrata Colodri kit rental | €32 | €80 | ~€16/person × 2–5 climbers |
 | Grotta Varone (weather backup) | €0 | €35 | €7/person if skipping ferrata |
 
-**No cable cars** in this corridor — much cheaper activity line than Version A.
+**No cable cars** in this corridor — much cheaper activity line than Dolomites Core.
 
 ---
 
@@ -113,7 +113,7 @@ Colodri ferrata is **in the main plan** (Day 5) — not optional.
 
 ## 6. Comparison with other variants
 
-| Category | Version B | **Version C** | Version A |
+| Category | Garda–Iseo Corridor | **Budget Garda Loop** | Dolomites Core |
 |----------|-----------|---------------|-----------|
 | Camps | 2 | **3** | 4+ |
 | Trip total (low) | ~€980 | **~€997** | ~€1,525 |
@@ -121,13 +121,13 @@ Colodri ferrata is **in the main plan** (Day 5) — not optional.
 | Ferrata in base | No (appendix) | **Yes (Colodri)** | Yes (Gran Cir, Ra Gusela) |
 | Food guidance | — | **Camp kitchen + restaurants** | — |
 
-Version C costs slightly more than B due to the extra camp night and ferrata kits, but less than A (no cable cars, no high-altitude camps).
+Budget Garda Loop costs slightly more than Garda–Iseo Corridor due to the extra camp night and ferrata kits, but less than Dolomites Core (no cable cars, no high-altitude camps).
 
 ---
 
-## 7. Combined trip estimate (Version C + Version A)
+## 7. Combined trip estimate (Budget Garda Loop + Dolomites Core)
 
-If you run **Version C (7 days)** then **Version A (7 days)** with shared rental:
+If you run **Budget Garda Loop (7 days)** then **Dolomites Core (7 days)** with shared rental:
 
 | Category | Low | High |
 |----------|-----|------|

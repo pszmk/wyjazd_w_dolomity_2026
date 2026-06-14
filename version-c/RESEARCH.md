@@ -1,6 +1,6 @@
-# Research — Budget Garda corridor (Version C)
+# Research — Budget Garda Loop
 
-Distance and activity research for [Version C](PLAN.md). Road km from route planners and official tourism sources (June 2026). Re-check on [Google Maps](https://maps.google.com) before booking.
+Distance and activity research for [Budget Garda Loop](PLAN.md). Road km from route planners and official tourism sources (June 2026). Re-check on [Google Maps](https://maps.google.com) before booking.
 
 **Geographic scope:** **Lago d’Iseo** → **west Garda (Manerba / Salò)** → **Riva del Garda** → **Valle dei Laghi**. The Manerba stop splits the classic Iseo↔Riva transfer and adds Mediterranean west-shore character.
 
@@ -16,7 +16,7 @@ Distance and activity research for [Version C](PLAN.md). Road km from route plan
 | Iseo → Manerba (Camping La Rocca) | **~55** | ~1 h | [Distanzechilometriche — Iseo to Salò ~55 km](http://distanzechilometriche.it/distanza-iseo-a-salo) via Brescia / Desenzano |
 | Manerba → Salò (day trip) | **~13** | ~20 min | [Percorsokm — Manerba to Salò ~13 km](https://www.percorsokm.it/it-it/percorso-da-Manerba_del_Garda-a-Sal%C3%B2) |
 | Manerba → Riva del Garda | **~50** | ~1 h | SS45bis Gardesana Occidentale — [Lake Garda Review](https://www.lakegardareview.com/manerba-del-garda.html) |
-| Iseo → Riva (direct, not used) | **~99** | ~1 h 35 min | Reference only — Version C splits this over 2 days |
+| Iseo → Riva (direct, not used) | **~99** | ~1 h 35 min | Reference only — Budget Garda Loop splits this over 2 days |
 | Riva → Arco (day trip) | **~8** | ~15 min | SS240 / SS45bis along Sarca valley |
 | Riva → Toblino / Sarche (day trip) | **~30–35** RT | ~40 min each way | SS45bis north via Dro |
 | Riva → BGY (direct return) | **~115** | ~1 h 30 min | SS240 → A22 → Brescia → A4 |
@@ -134,9 +134,9 @@ Flat **Iseo old town** walk — no ferry required. **Monte Isola ferry** from Su
 
 | Plan | Days in corridor | Camps | Ferrata | Signature hikes |
 |------|------------------|-------|---------|-----------------|
-| Version B | 7 | 2 | Optional appendix | Busatte, Toblino, lakeshore |
-| **Version C** | **7** | **3** | **Colodri (main)** | **Monte Guglielmo, Rocca, Busatte, Colodri, Toblino** |
-| Version A | 1 (Iseo staging) | 4+ | Gran Cir, Ra Gusela | Seceda, Tre Cime |
+| Garda–Iseo Corridor | 7 | 2 | Optional appendix | Busatte, Toblino, lakeshore |
+| **Budget Garda Loop** | **7** | **3** | **Colodri (main)** | **Monte Guglielmo, Rocca, Busatte, Colodri, Toblino** |
+| Dolomites Core | 1 (Iseo staging) | 4+ | Gran Cir, Ra Gusela | Seceda, Tre Cime |
 
 ---
 

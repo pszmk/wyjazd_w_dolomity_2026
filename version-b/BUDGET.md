@@ -22,22 +22,22 @@ Car hire detail: [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-c
 | **Trip total (excl. flights)** | **~€1,060** | **~€1,927** |
 | **Per person (÷5)** | **~€212** | **~€385** |
 
-Flights not included. Add **~€200–350** if you extend car hire to join [Version A](../version-a/PLAN.md) for another week.
+Flights not included. Add **~€200–350** if you extend car hire to join [Dolomites Core](../version-a/PLAN.md) for another week.
 
-**Colodri ferrata (Day 5):** kit rental × 5 included in Activities line above — or **€0** if you [buy kits in Poland](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) before the trip.
+**Colodri ferrata (Day 5):** kit rental × 5 included in Activities line above — or **€0** if you [buy kits in Poland](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) before the trip.
 
 ---
 
 ## 1. Car hire
 
-Same vehicle and booking strategy as Version A — **estate / compact SUV / MPV** at **BGY**.
+Same vehicle and booking strategy as Dolomites Core — **estate / compact SUV / MPV** at **BGY**.
 
 | Duration | Low | High |
 |----------|-----|------|
-| **7 days** (Version B only) | €200 | €490 |
-| **12 days** (B + full Version A) | €320 | €650 |
+| **7 days** (Garda–Iseo Corridor only) | €200 | €490 |
+| **12 days** (Corridor + full Dolomites Core) | €320 | €650 |
 
-Italian brands at terminal (Locauto, Sicily by Car) usually beat premium desks — see [Version A comparison table](../version-a/BUDGET.md#comparison-sites-search-all--prices-differ).
+Italian brands at terminal (Locauto, Sicily by Car) usually beat premium desks — see [Dolomites Core comparison table](../version-a/BUDGET.md#comparison-sites-search-all--prices-differ).
 
 ---
 
@@ -63,7 +63,7 @@ Main plan: hiking + **Via Ferrata Colodri** (Day 5).
 | Via ferrata Colodri (kit × 5) | €80 | €135 | [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) |
 | Monte Isola ferry (Day 2, ×5) | €15 | €25 | [Navigazione Lago d'Iseo](https://www.navigazione.lake-iseo.com/) |
 
-**No cable cars or toll roads** in this corridor — much cheaper activity line than Version A.
+**No cable cars or toll roads** in this corridor — much cheaper activity line than Dolomites Core.
 
 ---
 
@@ -79,9 +79,9 @@ Main plan: hiking + **Via Ferrata Colodri** (Day 5).
 
 ---
 
-## 5. Combined trip estimate (Version B + Version A)
+## 5. Combined trip estimate (Garda–Iseo Corridor + Dolomites Core)
 
-If you run **Version B (7 days)** then **Version A (7 days)** with shared rental:
+If you run **Garda–Iseo Corridor (7 days)** then **Dolomites Core (7 days)** with shared rental:
 
 | Category | Low | High |
 |----------|-----|------|
@@ -92,7 +92,7 @@ If you run **Version B (7 days)** then **Version A (7 days)** with shared rental
 | **Combined total (excl. flights)** | **~€2,140** | **~€3,915** |
 | **Per person (÷5)** | **~€428** | **~€783** |
 
-Staging **2 extra nights** (Bressanone + Sarche approach) adds ~€100–150 vs Version A alone.
+Staging **2 extra nights** (Bressanone + Sarche approach) adds ~€100–150 vs Dolomites Core alone.
 
 ---
 
@@ -102,6 +102,6 @@ Staging **2 extra nights** (Bressanone + Sarche approach) adds ~€100–150 vs 
 |----------|------|------|
 | 🔴 | Car hire | ASAP |
 | 🔴 | Brione (3–6 Sep, 4 nights) + del Sole (1–2 Sep) | ASAP |
-| 🟡 | Ferrata kit (Day 5, ×5) | Before trip or 1–2 weeks before | [Buy in PL](../version-a/EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) · [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) |
+| 🟡 | Ferrata kit (Day 5, ×5) | Before trip or 1–2 weeks before | [Buy in PL](EQUIPMENT.md#appendix-a--optional-buying-ferrata-kits-in-poland) · [Mmove Arco](https://360gardalife.com/en/activities/tours-excursions/viaferrata/colodri-lake-garda-alpine-guide-mmove/) |
 
 Price sources: [RESEARCH.md](RESEARCH.md) · [../version-a/BUDGET.md](../version-a/BUDGET.md)

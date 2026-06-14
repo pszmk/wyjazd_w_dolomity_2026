@@ -4,9 +4,14 @@
   "description": "Camping road trip to the Italian Dolomites — itinerary variants for **5 people**, tent + car (beginner via ferrata, Tre Cime, Seceda).",
   "main": "index.js",
   "scripts": {
+    "pdf:plans": "node scripts/generate-plan-pdf.mjs version-a/PLAN.md version-c/PLAN.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^18.0.5",
+    "playwright": "^1.60.0"
+  }
 }

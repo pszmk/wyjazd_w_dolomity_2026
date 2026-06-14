@@ -1,4 +1,4 @@
-# Version C — Budget Garda corridor (7 days)
+# Budget Garda Loop — 7-day plan
 
 Regional camping plan for **Lake Iseo**, **west Garda (Manerba / Salò)**, and **Riva del Garda** — with real mountain days, a beginner via ferrata, and camp-cook budget tips.
 
@@ -10,7 +10,7 @@ Regional camping plan for **Lake Iseo**, **west Garda (Manerba / Salò)**, and *
 | **Camps** | **Three sites** — Iseo (2 nights) + Manerba (1 night) + Riva (3 nights) |
 | **Focus** | Monte Guglielmo, Rocca di Manerba, Busatte–Tempesta, Via Ferrata Colodri, Toblino |
 
-**Not the high Dolomites** — that is [Version A](../version-a/PLAN.md). **Gentler corridor loop** — [Version B](../version-b/PLAN.md) (2 camps, no ferrata in main plan).
+**Not the high Dolomites** — that is [Dolomites Core](../version-a/PLAN.md). **Two-camp corridor** — [Garda–Iseo Corridor](../version-b/PLAN.md) (Iseo + Riva only, one ~99 km transfer).
 
 ---
 
@@ -32,9 +32,9 @@ Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (sta
 | Use case | What to do |
 |----------|------------|
 | **Standalone week** | Follow [PLAN.md](PLAN.md) only — fly in/out BGY |
-| **Scenic approach to Version A** | Do days 1–6 here, then **Tue 8 Sep** drive Sarche → Bressanone (~98 km) + join Version A from Gran Cir |
-| **Easier lakes week** | Choose [Version B](../version-b/PLAN.md) — 2 camps, shorter Iseo days, ferrata optional |
-| **Version A as-is** | Skip Version C — single Iseo night then direct to Colfosco ([Version A day 1–2](../version-a/PLAN.md)) |
+| **Scenic approach to Dolomites Core** | Do days 1–6 here, then **Tue 8 Sep** drive Sarche → Bressanone (~98 km) + join Dolomites Core from Gran Cir |
+| **Two-camp corridor week** | Choose [Garda–Iseo Corridor](../version-b/PLAN.md) — Iseo + Riva only, one long transfer |
+| **Dolomites Core as-is** | Skip Budget Garda Loop — single Iseo night then direct to Colfosco ([Dolomites Core day 1–2](../version-a/PLAN.md)) |
 
 ---
 
@@ -46,13 +46,13 @@ Shared packing list: [../version-a/EQUIPMENT.md](../version-a/EQUIPMENT.md) (sta
 - **Days 5–6:** **Riva base** — Busatte–Tempesta, **Via Ferrata Colodri**, Castel Toblino
 - **Day 7:** Riva → **BGY** direct (~115 km)
 
-**Car hire:** same BGY guide as Version A — [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives).
+**Car hire:** same BGY guide as Dolomites Core — [../version-a/BUDGET.md § Car hire](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives).
 
 ---
 
 ## Version comparison
 
-| | Version B | **Version C** | Version A |
+| | Garda–Iseo Corridor | **Budget Garda Loop** | Dolomites Core |
 |---|---|---|---|
 | Camps | 2 | **3** | 4+ |
 | Iseo→Riva | 1 day (~99 km) | **2 days** (~55 + ~50 km) | 1 staging night |

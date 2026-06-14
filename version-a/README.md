@@ -1,4 +1,4 @@
-# Version A — 7-day plan (≤150 km/day)
+# Dolomites Core — 7-day plan (≤150 km/day)
 
 Main itinerary: **31 Aug – 6 Sep 2026**, flying in and out of **Bergamo (BGY)**.
 
@@ -9,7 +9,7 @@ Main itinerary: **31 Aug – 6 Sep 2026**, flying in and out of **Bergamo (BGY)*
 | **Bases** | Iseo (1 night) → Colfosco (3 nights) → Dobbiaco (2 nights) |
 | **Focus** | Beginner via ferrata (grade A), camping, road trip |
 
-**Alternative:** [Version B](../version-b/PLAN.md) — **7 days** pre-Dolomites hiking in the Garda ↔ Iseo corridor before or instead of the high mountains.
+**Alternative:** [Garda–Iseo Corridor](../version-b/PLAN.md) — **7 days** pre-Dolomites hiking in the Garda ↔ Iseo corridor before or instead of the high mountains.
 
 Activity rules: [PRINCIPLES.md](../PRINCIPLES.md)
 

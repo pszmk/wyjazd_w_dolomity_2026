@@ -22,10 +22,10 @@ All links referenced in [PLAN.md](PLAN.md) and [BUDGET.md](BUDGET.md), grouped b
 
 | What | URL | Price hint |
 |------|-----|------------|
-| Camping del Sole (Iseo) — staging | https://www.campingdelsole.it/en/ | **~26 km from BGY**; also [Version B](../version-b/PLAN.md) |
-| Camping Brione (Riva) — [Version B](../version-b/PLAN.md) | https://www.campingbrione.com/EN/ | Garda north shore |
-| Camping Arco Prabi — [Version B](../version-b/PLAN.md) | https://www.campingarco.it/en/ | Colodri ferrata at gate |
-| Camping Sarche (Toblino) — corridor / exit staging | https://www.camping-sarche.it/ | [Version B](../version-b/PLAN.md) + optional A return split |
+| Camping del Sole (Iseo) — staging | https://www.campingdelsole.it/en/ | **~26 km from BGY**; also [Garda–Iseo Corridor](../version-b/PLAN.md) |
+| Camping Brione (Riva) — [Garda–Iseo Corridor](../version-b/PLAN.md) | https://www.campingbrione.com/EN/ | Garda north shore |
+| Camping Arco Prabi — [Garda–Iseo Corridor](../version-b/PLAN.md) | https://www.campingarco.it/en/ | Colodri ferrata at gate |
+| Camping Sarche (Toblino) — corridor / exit staging | https://www.camping-sarche.it/ | [Garda–Iseo Corridor](../version-b/PLAN.md) + optional A return split |
 | Camping Colfosco — book/info | https://www.campingcolfosco.org/ | Alta Badia; **~8 km to Passo Gardena** |
 | Camping Olympia (Dobbiaco) | https://www.camping-olympia.com/en/lago-di-braies-camping/ | ~€36–50/night |
 | Camping Al Plan — alternative | https://booking.campingalplan.com/ | from **€42/night** (2 pers.) |

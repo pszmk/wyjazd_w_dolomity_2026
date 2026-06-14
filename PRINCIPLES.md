@@ -1,6 +1,6 @@
 # Activity principles — mountain-first trips
 
-Shared rules for [Version A](version-a/PLAN.md) and [Version B](version-b/PLAN.md). Every calendar day should have a **named mountain activity** (hike or via ferrata). Lakes are for **recovery**, not sightseeing.
+Shared rules for [Dolomites Core](version-a/PLAN.md), [Garda–Iseo Corridor](version-b/PLAN.md), and [Budget Garda Loop](version-c/PLAN.md). Every calendar day should have a **named mountain activity** (hike or via ferrata). Lakes are for **recovery**, not sightseeing.
 
 ---
 
@@ -53,5 +53,6 @@ If you camp on a lake, the **calendar row and day title** still name a mountain 
 
 | Plan | Focus |
 |------|-------|
-| [Version A](version-a/PLAN.md) | Dolomites core — ferrata + classic hikes |
-| [Version B](version-b/PLAN.md) | Pre-Dolomites hiking week — Garda & Iseo hills; swim after hike days |
+| [Dolomites Core](version-a/PLAN.md) | High Dolomites — ferrata + classic hikes (Gran Cir, Seceda, Tre Cime) |
+| [Garda–Iseo Corridor](version-b/PLAN.md) | Pre-Dolomites hiking week — Garda & Iseo hills; swim after hike days |
+| [Budget Garda Loop](version-c/PLAN.md) | Budget Garda circuit — 3 camps, Colodri ferrata, camp-cook |

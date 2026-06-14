@@ -1,4 +1,4 @@
-# Trip plan — Budget Garda corridor (1 – 7 Sep 2026)
+# Trip plan — Budget Garda Loop (1 – 7 Sep 2026)
 
 7-day camping loop from **Bergamo Airport (BGY)** through **Lake Iseo**, **Manerba del Garda / Salò** (west Garda), **Riva del Garda**, **Arco**, and **Valle dei Laghi** (Lago Toblino).
 
@@ -14,7 +14,7 @@
 
 **Distances:** [RESEARCH.md](RESEARCH.md).
 
-**Continue to Dolomites?** See [README — How this fits](README.md#how-this-fits-the-other-plans) or join [Version A](../version-a/PLAN.md) via Bressanone staging (~98 km from Sarche).
+**Continue to Dolomites?** See [README — How this fits](README.md#how-this-fits-the-other-plans) or join [Dolomites Core](../version-a/PLAN.md) via Bressanone staging (~98 km from Sarche).
 
 ---
 
@@ -264,7 +264,7 @@ If you used **[OPTIONAL-la-rocca-hiking-day.md](OPTIONAL-la-rocca-hiking-day.md)
 | Option | What |
 |--------|------|
 | **A** | Fly home Mon 7 Sep (this plan) |
-| **B** | **Continue north** — Riva/Sarche → Bressanone (~98 km) Tue 8 Sep; join [Version A Dolomites](../version-a/PLAN.md) |
+| **B** | **Continue north** — Riva/Sarche → Bressanone (~98 km) Tue 8 Sep; join [Dolomites Core](../version-a/PLAN.md) |
 
 ### Costs today
 
@@ -332,7 +332,7 @@ Remember **pane e coperto** (bread/cover charge, ~€2–3/person) on restaurant
 
 | ☐ | Item | When | Link | Cost |
 |---|------|------|------|------|
-| ☐ | Car hire (7 days, estate/SUV) | ASAP | [Version A car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) | €200–490 |
+| ☐ | Car hire (7 days, estate/SUV) | ASAP | [Dolomites Core car hire guide](../version-a/BUDGET.md#1-car-hire--bergamo-bgy--local-alternatives) | €200–490 |
 | ☐ | Camping del Sole (1–2 Sep, 2 nights) | ASAP | [campingdelsole.it](https://www.campingdelsole.it/en/) | ~€100–160 |
 | ☐ | Camping La Rocca (3 Sep, 1 night) | ASAP | [laroccacamp.it](https://www.laroccacamp.it/) | ~€50–80 |
 | ☐ | Camping Brione (4–6 Sep, 3 nights) | ASAP | [campingbrione.com](https://www.campingbrione.com/EN/) | ~€165–255 |
